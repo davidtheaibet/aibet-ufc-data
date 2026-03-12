@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generated": "2026-03-12",
+    "source": "Tapology + UFC Stats",
+    "event": "UFC 326: Holloway vs. Oliveira 2"
+  },
+  "weight_class_history": {
+    "max_holloway": {
+      "name": "Max Holloway",
+      "natural_weight_class": "Featherweight (145 lbs)",
+      "current_weight_class": "Lightweight (155 lbs)",
+      "movement": "Moved up to Lightweight",
+      "ufc_326_weight": "155.0 lbs",
+      "weight_class_history": [
+        {"weight_class": "Lightweight", "period": "2024-present", "record": "1-2"},
+        {"weight_class": "Featherweight", "period": "2012-2024", "record": "21-5", "title_reigns": 1}
+      ],
+      "physical_transformation": {
+        "notable": true,
+        "description": "Moved up to Lightweight for title opportunities after clearing out Featherweight division",
+        "power_at_155": "Moderate - less KO power than at 145"
+      }
+    },
+    "charles_oliveira": {
+      "name": "Charles Oliveira",
+      "natural_weight_class": "Lightweight (155 lbs)",
+      "current_weight_class": "Lightweight (155 lbs)",
+      "movement": "Stayed at Lightweight",
+      "ufc_326_weight": "156.0 lbs",
+      "weight_class_history": [
+        {"weight_class": "Lightweight", "period": "2017-present", "record": "16-5", "title_reigns": 1},
+        {"weight_class": "Featherweight", "period": "2012-2016", "record": "5-5"}
+      ],
+      "physical_transformation": {
+        "notable": true,
+        "description": "Moved up to Lightweight in 2017, found significant success with improved strength and cardio",
+        "power_at_155": "High - maintained submission threat while improving striking"
+      }
+    },
+    "caio_borralho": {
+      "name": "Caio Borralho",
+      "natural_weight_class": "Middleweight (185 lbs)",
+      "current_weight_class": "Middleweight (185 lbs)",
+      "movement": "Stayed at Middleweight",
+      "ufc_326_weight": "186.0 lbs",
+      "weight_class_history": [
+        {"weight_class": "Middleweight", "period": "2022-present", "record": "7-1"}
+      ],
+      "physical_transformation": {
+        "notable": false,
+        "description": "Consistent Middleweight, no significant weight class changes",
+        "power_at_185": "Moderate - volume striker with good cardio"
+      }
+    },
+    "reinier_de_ridder": {
+      "name": "Reinier de Ridder",
+      "natural_weight_class": "Middleweight (185 lbs)",
+      "current_weight_class": "Middleweight (185 lbs)",
+      "movement": "Moved down from Light Heavyweight",
+      "ufc_326_weight": "185.5 lbs",
+      "weight_class_history": [
+        {"weight_class": "Middleweight", "period": "2024-present", "record": "0-2"},
+        {"weight_class": "Light Heavyweight", "period": "2022-2024", "record": "2-1"}
+      ],
+      "physical_transformation": {
+        "notable": true,
+        "description": "Moved down to Middleweight after UFC 326 loss. Former ONE Championship double champion (MW + LHW)",
+        "power_at_185": "Moderate - grappling focused, cardio concerns at weight cut"
+      },
+      "post_ufc_326": "Announced plans to move to 205 lbs after consecutive UFC defeats"
+    },
+    "rob_font": {
+      "name": "Rob Font",
+      "natural_weight_class": "Bantamweight (135 lbs)",
+      "current_weight_class": "Bantamweight (135 lbs)",
+      "movement": "Stayed at Bantamweight",
+      "ufc_326_weight": "136.0 lbs",
+      "weight_class_history": [
+        {"weight_class": "Bantamweight", "period": "2014-present", "record": "10-7"}
+      ],
+      "physical_transformation": {
+        "notable": false,
+        "description": "Long-time Bantamweight, excellent boxing, struggles with wrestlers",
+        "power_at_135": "High - one of the best boxers in division"
+      }
+    },
+    "raul_rosas_jr": {
+      "name": "Raul Rosas Jr.",
+      "natural_weight_class": "Bantamweight (135 lbs)",
+      "current_weight_class": "Bantamweight (135 lbs)",
+      "movement": "Stayed at Bantamweight",
+      "ufc_326_weight": "135.5 lbs",
+      "weight_class_history": [
+        {"weight_class": "Bantamweight", "period": "2022-present", "record": "5-1"}
+      ],
+      "physical_transformation": {
+        "notable": false,
+        "description": "Young prospect, still developing physically at 20 years old",
+        "power_at_135": "Developing - grappling focused, improving striking"
+      }
+    },
+    "long_xiao": {
+      "name": "Long Xiao",
+      "natural_weight_class": "Bantamweight (135 lbs)",
+      "current_weight_class": "Bantamweight (135 lbs)",
+      "movement": "Stayed at Bantamweight",
+      "ufc_326_weight": "135.5 lbs",
+      "weight_class_history": [
+        {"weight_class": "Bantamweight", "period": "2024-present", "record": "1-3"}
+      ],
+      "physical_transformation": {
+        "notable": false,
+        "description": "Consistent Bantamweight, fought at 135 lbs throughout career",
+        "power_at_135": "Moderate - submission specialist, limited striking power"
+      }
+    }
+  },
+  "key_insights": {
+    "weight_differential": "Holloway moved up (+10 lbs), de Ridder moved down (-20 lbs from LHW)",
+    "physical_advantage": "Oliveira has natural size advantage at 155, Holloway is smaller for the division",
+    "cut_difficulty": "de Ridder's move to 185 may have impacted performance; announced return to 205 after UFC 326"
+  }
+}

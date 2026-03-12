@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "generated": "2026-03-12",
+    "event": "UFC 326: Holloway vs. Oliveira 2",
+    "data_sources": ["Tapology", "UFC Stats", "Sherdog"]
+  },
+  "data_completeness_tracker": {
+    "fighters": {
+      "max_holloway": {
+        "completeness_percent": 85,
+        "missing_data": ["TD Def % (UFC Stats)", "Recent fight history context"],
+        "sources_checked": ["Tapology", "UFC Stats (partial)"],
+        "priority": "Medium"
+      },
+      "charles_oliveira": {
+        "completeness_percent": 85,
+        "missing_data": ["TD Def % (UFC Stats)", "Physical transformation metrics"],
+        "sources_checked": ["Tapology", "UFC Stats (partial)"],
+        "priority": "Medium"
+      },
+      "caio_borralho": {
+        "completeness_percent": 80,
+        "missing_data": ["TD Def % (UFC Stats)", "Complete takedown defense stats"],
+        "sources_checked": ["Tapology"],
+        "priority": "Medium"
+      },
+      "reinier_de_ridder": {
+        "completeness_percent": 75,
+        "missing_data": ["TD Def % (UFC Stats)", "ONE Championship detailed stats"],
+        "sources_checked": ["Tapology"],
+        "priority": "Medium"
+      },
+      "rob_font": {
+        "completeness_percent": 80,
+        "missing_data": ["TD Def % (UFC Stats)", "Complete striking defense breakdown"],
+        "sources_checked": ["Tapology"],
+        "priority": "High"
+      },
+      "raul_rosas_jr": {
+        "completeness_percent": 75,
+        "missing_data": ["TD Def % (UFC Stats)", "Pre-UFC regional record details"],
+        "sources_checked": ["Tapology"],
+        "priority": "High"
+      },
+      "long_xiao": {
+        "completeness_percent": 100,
+        "missing_data": [],
+        "sources_checked": ["Tapology", "UFC Stats", "Sherdog"],
+        "priority": "Complete"
+      },
+      "drew_dober": {
+        "completeness_percent": 90,
+        "missing_data": ["Recent weight class history"],
+        "sources_checked": ["Tapology"],
+        "priority": "Low"
+      },
+      "michael_johnson": {
+        "completeness_percent": 90,
+        "missing_data": ["Recent performance metrics"],
+        "sources_checked": ["Tapology"],
+        "priority": "Low"
+      },
+      "gregory_rodrigues": {
+        "completeness_percent": 85,
+        "missing_data": ["TD Def % (UFC Stats)"],
+        "sources_checked": ["Tapology"],
+        "priority": "Low"
+      },
+      "brunno_ferreira": {
+        "completeness_percent": 85,
+        "missing_data": ["TD Def % (UFC Stats)"],
+        "sources_checked": ["Tapology"],
+        "priority": "Low"
+      },
+      "cody_garbrandt": {
+        "completeness_percent": 90,
+        "missing_data": ["Recent chin durability metrics"],
+        "sources_checked": ["Tapology"],
+        "priority": "Low"
+      }
+    }
+  },
+  "priority_list": {
+    "high_priority": [
+      {
+        "fighter": "Rob Font",
+        "missing": "TD Def %, complete striking defense",
+        "why_important": "Key matchup vs Rosas Jr., wrestling vulnerability central to analysis"
+      },
+      {
+        "fighter": "Raul Rosas Jr.",
+        "missing": "TD Def %, pre-UFC record gaps",
+        "why_important": "Young prospect, limited data for accurate modeling"
+      }
+    ],
+    "medium_priority": [
+      {
+        "fighter": "Max Holloway",
+        "missing": "TD Def % at 155",
+        "why_important": "Main event fighter, weight class change impact"
+      },
+      {
+        "fighter": "Charles Oliveira",
+        "missing": "TD Def %",
+        "why_important": "Main event fighter, wrestling vulnerability key factor"
+      },
+      {
+        "fighter": "Caio Borralho",
+        "missing": "TD Def %",
+        "why_important": "Co-main event, takedown defense critical for style"
+      },
+      {
+        "fighter": "Reinier de Ridder",
+        "missing": "TD Def %, ONE Championship stats",
+        "why_important": "Weight class change, limited UFC sample size"
+      }
+    ],
+    "low_priority": [
+      {
+        "fighter": "Drew Dober",
+        "missing": "Minor weight class details",
+        "why_important": "Veteran with established UFC record"
+      },
+      {
+        "fighter": "Michael Johnson",
+        "missing": "Recent performance trends",
+        "why_important": "Veteran, likely retirement fight"
+      }
+    ]
+  },
+  "sources_to_check_next": {
+    "ufc_stats_direct": {
+      "url": "http://www.ufcstats.com",
+      "fighters_to_search": ["Rob Font", "Raul Rosas Jr.", "Max Holloway", "Charles Oliveira", "Caio Borralho", "Reinier de Ridder"],
+      "data_needed": "TD Def %, SLpM, SApM, Str Def %"
+    },
+    "sherdog": {
+      "url": "https://www.sherdog.com",
+      "fighters_to_search": ["Raul Rosas Jr."],
+      "data_needed": "Pre-UFC regional fight history"
+    },
+    "espn_mma": {
+      "url": "https://www.espn.com/mma",
+      "fighters_to_search": ["Max Holloway", "Charles Oliveira"],
+      "data_needed": "Physical transformation stories, weight class analysis"
+    }
+  },
+  "data_gaps_filled": {
+    "count": 1,
+    "fighters": ["Long Xiao"],
+    "details": {
+      "long_xiao": {
+        "filled": ["Full fight history (38 fights)", "Regional circuit record (26-8)", "UFC Stats official metrics (TD Def 82%)", "Weight class history", "Physical metrics", "Last 5 fights"],
+        "sources": ["Tapology", "UFC Stats"]
+      }
+    }
+  },
+  "overall_completeness": {
+    "percentage": 82,
+    "fighters_complete": 1,
+    "fighters_partial": 8,
+    "total_fighters": 12
+  }
+}

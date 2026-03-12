@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "generated": "2026-03-12",
+    "source": "UFC Stats + Tapology",
+    "event": "UFC 326"
+  },
+  "physical_metrics": {
+    "max_holloway": {
+      "name": "Max Holloway",
+      "height": "5'11\"",
+      "reach": "69\"",
+      "weight_ufc_326": "155.0 lbs",
+      "ko_rate_by_weight_class": {
+        "145": "38% (8 of 21 wins by KO/TKO)",
+        "155": "0% (0 of 1 win by KO/TKO)"
+      },
+      "power_rating": "Moderate at 155 (diminished from 145)",
+      "physical_notes": "Moved up to Lightweight, natural frame better suited for 145. Less stopping power at 155 but better cardio."
+    },
+    "charles_oliveira": {
+      "name": "Charles Oliveira",
+      "height": "5'10\"",
+      "reach": "74\"",
+      "weight_ufc_326": "156.0 lbs",
+      "ko_rate_by_weight_class": {
+        "145": "20% (1 of 5 wins by KO/TKO)",
+        "155": "31% (5 of 16 wins by KO/TKO)"
+      },
+      "power_rating": "High - maintained submission threat, improved striking power",
+      "physical_notes": "Filled out frame at 155, much more successful than at 145. Natural Lightweight with excellent strength."
+    },
+    "caio_borralho": {
+      "name": "Caio Borralho",
+      "height": "6'1\"",
+      "reach": "75\"",
+      "weight_ufc_326": "186.0 lbs",
+      "ko_rate_by_weight_class": {
+        "185": "22% (4 of 18 wins by KO/TKO)"
+      },
+      "power_rating": "Moderate - volume striker, not a one-punch KO artist",
+      "physical_notes": "Tall Middleweight, uses range well. Cardio machine with consistent output over 3 rounds."
+    },
+    "reinier_de_ridder": {
+      "name": "Reinier de Ridder",
+      "height": "6'3\"",
+      "reach": "76\"",
+      "weight_ufc_326": "185.5 lbs",
+      "ko_rate_by_weight_class": {
+        "185": "0% (0 wins by KO/TKO in UFC)",
+        "205": "50% (1 of 2 wins by KO/TKO in UFC)"
+      },
+      "power_rating": "Low at 185 - grappling focused, gassed in fights",
+      "physical_notes": "Tall but struggled with weight cut to 185. Better suited for 205 where he had more success. Announced move back to 205 after UFC 326."
+    },
+    "rob_font": {
+      "name": "Rob Font",
+      "height": "5'8\"",
+      "reach": "71\"",
+      "weight_ufc_326": "136.0 lbs",
+      "ko_rate_by_weight_class": {
+        "135": "40% (9 of 22 wins by KO/TKO)"
+      },
+      "power_rating": "High - best boxing in Bantamweight division",
+      "physical_notes": "Excellent reach for height. Heavy hands, technical striker. Vulnerable to takedowns (TD Def gap identified)."
+    },
+    "raul_rosas_jr": {
+      "name": "Raul Rosas Jr.",
+      "height": "5'9\"",
+      "reach": "72\"",
+      "weight_ufc_326": "135.5 lbs",
+      "ko_rate_by_weight_class": {
+        "135": "17% (2 of 12 wins by KO/TKO)"
+      },
+      "power_rating": "Developing - grappling focused, young at 20",
+      "physical_notes": "Still physically maturing. Good reach for division. High pace grappler. TD Def gap identified."
+    },
+    "long_xiao": {
+      "name": "Long Xiao",
+      "height": "5'8\"",
+      "reach": "70\"",
+      "weight_ufc_326": "135.5 lbs",
+      "ko_rate_by_weight_class": {
+        "135": "19% (5 of 27 wins by KO/TKO)"
+      },
+      "power_rating": "Low-Moderate - submission specialist",
+      "physical_notes": "Average size for Bantamweight. Strong grappling base from Chinese martial arts background. 9 submission wins."
+    }
+  },
+  "key_physical_insights": {
+    "holloway_at_155": "Lost KO power moving up, but maintained volume and cardio advantage",
+    "oliveira_natural_size": "Big Lightweight, strength advantage over Holloway",
+    "de_ridder_weight_cut": "185 lb cut likely impacted cardio and performance",
+    "font_striking": "Elite boxing but wrestling vulnerability",
+    "rosas_development": "Still growing into body at 20 years old"
+  },
+  "td_def_gaps_filled": {
+    "long_xiao": "82% TD Def (UFC Stats official)",
+    "rob_font": "Data still needed - estimated 60-65% based on fight footage",
+    "raul_rosas_jr": "Data still needed - estimated 55-60% based on grappling exchanges",
+    "caio_borralho": "Data still needed - estimated 70-75% based on takedown avoidance",
+    "reinier_de_ridder": "Data still needed - estimated 60% based on wrestling struggles at 185",
+    "max_holloway": "Data still needed - estimated 80%+ based on historical performance",
+    "charles_oliveira": "Data still needed - estimated 60% based on wrestling vulnerabilities"
+  }
+}

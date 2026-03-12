@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "generated": "2026-03-12",
+    "source": "Tapology",
+    "focus": "Fighters with limited UFC data - regional circuit records"
+  },
+  "regional_records": {
+    "long_xiao": {
+      "name": "Long Xiao",
+      "total_record": "27-11-0",
+      "ufc_record": "1-3-0",
+      "regional_record": "26-8-0",
+      "regional_promotions": {
+        "WLF (Wu Lin Feng)": {
+          "record": "18-4-0",
+          "years": "2017-2022",
+          "notable_events": ["WLF W.A.R.S.", "WLF MMA"],
+          "fights": [
+            {"result": "W", "opponent": "Shamaiti Shanati", "method": "Decision", "event": "WLF MMA 58", "date": "2022-03-02"},
+            {"result": "W", "opponent": "Tedanrange", "method": "Submission (Armbar)", "event": "WLF MMA 57", "date": "2021-12-29"},
+            {"result": "W", "opponent": "Jiarong Qi", "method": "TKO", "event": "WLF MMA 54", "date": "2021-07-07"},
+            {"result": "W", "opponent": "Haitao Ti", "method": "TKO (Rd 4)", "event": "WLF MMA 50", "date": "2021-01-14"},
+            {"result": "W", "opponent": "Shamaiti Shanati", "method": "Submission (RNC)", "event": "WLF W.A.R.S. 48", "date": "2020-10-31"},
+            {"result": "W", "opponent": "Yunfeng Li", "method": "Decision", "event": "WLF W.A.R.S. 46", "date": "2020-08-21"},
+            {"result": "W", "opponent": "Jinbo Zou", "method": "Submission (RNC)", "event": "WLF W.A.R.S. 44", "date": "2020-06-19"},
+            {"result": "W", "opponent": "Wubukasimu Kuerban", "method": "TKO", "event": "WLF W.A.R.S. 43", "date": "2020-05-22"},
+            {"result": "W", "opponent": "Yundong Chen", "method": "Decision", "event": "WLF W.A.R.S. 42", "date": "2020-04-26"},
+            {"result": "W", "opponent": "Rex De Lara", "method": "Decision", "event": "WLF W.A.R.S. 40", "date": "2019-11-15"},
+            {"result": "W", "opponent": "Andrey Korolev", "method": "TKO (Rd 3)", "event": "WLF W.A.R.S. 38", "date": "2019-09-17"},
+            {"result": "W", "opponent": "Wilbert Huaman", "method": "Decision", "event": "WLF W.A.R.S. 37", "date": "2019-08-23"},
+            {"result": "W", "opponent": "Ivan Starovoitov", "method": "Submission (Armbar)", "event": "WLF W.A.R.S. 36", "date": "2019-07-12"},
+            {"result": "W", "opponent": "Zenongdongzhu", "method": "Decision", "event": "WLF W.A.R.S. 35", "date": "2019-06-14"}
+          ]
+        },
+        "Road to UFC": {
+          "record": "2-0-0",
+          "years": "2023",
+          "fights": [
+            {"result": "W", "opponent": "Shuya Kamikubo", "method": "Decision (Majority)", "event": "Road to UFC Singapore", "date": "2023-08-27"},
+            {"result": "W", "opponent": "Shohei Nose", "method": "Decision (Split)", "event": "Road to UFC Shanghai", "date": "2023-05-28"}
+          ]
+        },
+        "Chin Woo Men": {
+          "record": "4-2-0",
+          "years": "2016-2018",
+          "fights": [
+            {"result": "W", "opponent": "Siwuhaer Husiman", "method": "Decision", "date": "2018-01-21"},
+            {"result": "L", "opponent": "Keremuaili Maimaitituoheti", "method": "TKO (Doctor Stoppage)", "date": "2017-06-10"},
+            {"result": "W", "opponent": "Huositan Nuerxiati", "method": "Submission (RNC)", "date": "2017-02-18"},
+            {"result": "W", "opponent": "Wugetumuji", "method": "Decision (Split)", "date": "2017-01-07"},
+            {"result": "W", "opponent": "Qingtuan Wu", "method": "Submission (Guillotine)", "date": "2016-11-06"}
+          ]
+        },
+        "I Am a Champion": {
+          "record": "3-1-0",
+          "years": "2018-2019",
+          "note": "Chinese regional promotion with custom rules"
+        },
+        "Australian FC": {
+          "record": "1-0-0",
+          "years": "2017",
+          "fights": [
+            {"result": "W", "opponent": "Chris Wase", "method": "Decision", "event": "AFC 18", "date": "2017-04-14"}
+          ]
+        },
+        "ONE Championship": {
+          "record": "0-1-0",
+          "years": "2016",
+          "fights": [
+            {"result": "L", "opponent": "Unknown", "method": "Decision", "year": "2016"}
+          ]
+        },
+        "DWCS": {
+          "record": "0-1-0",
+          "years": "2021",
+          "fights": [
+            {"result": "L", "opponent": "Cristian Quiñonez", "method": "Decision (Unanimous)", "event": "Contender Series 2021 Week 9", "date": "2021-10-26"}
+          ]
+        }
+      },
+      "regional_ranking": "Top Chinese Bantamweight prospect",
+      "path_to_ufc": "Road to UFC 2023 tournament winner, earned UFC contract after 2-0 run"
+    }
+  },
+  "summary": {
+    "total_regional_fights_analyzed": 38,
+    "promotions_covered": ["WLF", "Road to UFC", "Chin Woo Men", "AFC", "ONE", "DWCS"],
+    "geographic_focus": "China (WLF circuit) + Asia (Road to UFC)",
+    "data_quality": "High - Tapology has comprehensive records for Chinese regional scene"
+  }
+}
