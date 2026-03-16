@@ -1,0 +1,148 @@
+{
+  "api_version": "1.0",
+  "endpoints": {
+    "upcoming_events": {
+      "url": "/api/ufc/events/upcoming",
+      "method": "GET",
+      "description": "Get all upcoming UFC events with fighter details",
+      "response": {
+        "metadata": {
+          "exported_at": "2026-03-16T20:30:00",
+          "source": "ufcstats.com",
+          "count": 8,
+          "scraper_version": "1.0"
+        },
+        "events": [
+          {
+            "id": "ufc-0cfbbfa0ba6d9855",
+            "ufc_id": "0cfbbfa0ba6d9855",
+            "name": "UFC Fight Night: Emmett vs Vallejos",
+            "date": "2026-03-15",
+            "time": "11:00 AM GMT+11",
+            "venue": "Meta APEX",
+            "location": "Las Vegas, NV, United States",
+            "is_ppv": false,
+            "is_fight_night": true,
+            "status": "upcoming",
+            "url": "http://www.ufcstats.com/event-details/0cfbbfa0ba6d9855",
+            "fight_count": 14,
+            "main_card": [
+              {
+                "position": 1,
+                "weight_class": "Featherweight",
+                "is_main_event": true,
+                "is_title_fight": false,
+                "fighter_a": {
+                  "name": "Josh Emmett",
+                  "first_name": "Josh",
+                  "last_name": "Emmett",
+                  "rank": "#11",
+                  "country": "United States",
+                  "odds": "-"
+                },
+                "fighter_b": {
+                  "name": "Kevin Vallejos",
+                  "first_name": "Kevin",
+                  "last_name": "Vallejos",
+                  "rank": "#14",
+                  "country": "Argentina",
+                  "odds": "-"
+                }
+              }
+            ],
+            "prelims": [
+              {
+                "position": 1,
+                "weight_class": "Heavyweight",
+                "fighter_a": {
+                  "name": "Vitor Petrino",
+                  "rank": "#15",
+                  "country": "Brazil"
+                },
+                "fighter_b": {
+                  "name": "Steven Asplund",
+                  "country": "United States"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "event_detail": {
+      "url": "/api/ufc/events/:ufc_id",
+      "method": "GET",
+      "description": "Get specific event by ufc_id",
+      "parameters": {
+        "ufc_id": "string (required) - UFCStats event ID"
+      },
+      "response": {
+        "id": "ufc-0cfbbfa0ba6d9855",
+        "ufc_id": "0cfbbfa0ba6d9855",
+        "name": "UFC Fight Night: Emmett vs Vallejos",
+        "date": "2026-03-15",
+        "fighters": [
+          {
+            "name": "Josh Emmett",
+            "ufc_id": "fighter_ufc_id_here",
+            "profile_url": "/api/ufc/fighters/:ufc_id"
+          }
+        ]
+      }
+    },
+    "event_fighters": {
+      "url": "/api/ufc/events/:ufc_id/fighters",
+      "method": "GET",
+      "description": "Get all fighters for a specific event",
+      "response": {
+        "event_id": "ufc-0cfbbfa0ba6d9855",
+        "ufc_id": "0cfbbfa0ba6d9855",
+        "event_name": "UFC Fight Night: Emmett vs Vallejos",
+        "fighter_count": 28,
+        "fighters": [
+          {
+            "name": "Josh Emmett",
+            "ufc_id": "fighter_ufc_id",
+            "opponent": "Kevin Vallejos",
+            "weight_class": "Featherweight",
+            "is_main_event": true,
+            "rank": "#11"
+          }
+        ]
+      }
+    },
+    "fighter_profile": {
+      "url": "/api/ufc/fighters/:ufc_id",
+      "method": "GET",
+      "description": "Get detailed fighter profile",
+      "response": {
+        "ufc_id": "fighter_ufc_id",
+        "name": "Josh Emmett",
+        "record": "19-4-0",
+        "stats": {
+          "slpm": 4.23,
+          "sig_strike_acc": "48%",
+          "td_avg": 1.2
+        }
+      }
+    }
+  },
+  "data_sources": {
+    "upcoming_events": {
+      "primary": "ufcstats.com/scraper",
+      "backup": "upcoming-events.json (manual)",
+      "refresh": "Every 6 hours"
+    },
+    "fighter_profiles": {
+      "source": "fighters.json",
+      "count": 4346,
+      "last_updated": "2026-03-12"
+    }
+  },
+  "implementation_notes": {
+    "ufc_id": "Always present for upcoming events (from UFCStats scraper)",
+    "fighter_matching": "Match by name between event data and fighters.json",
+    "missing_data": "Some upcoming fights may not have complete fighter profiles yet",
+    "cache_strategy": "Cache upcoming events for 6 hours, fighter profiles for 24 hours"
+  }
+}

@@ -1,0 +1,1175 @@
+{
+  "metadata": {
+    "api_version": "1.0",
+    "exported_at": "2026-03-16T20:39:41.486620",
+    "source": "aibet-ufc-data",
+    "count": 8,
+    "notes": "ufc_id will be populated by UFCStats scraper"
+  },
+  "events": [
+    {
+      "id": "ufc-fight-night-march-14-2026",
+      "ufc_id": null,
+      "name": "UFC Fight Night: Emmett vs Vallejos",
+      "date": "2026-03-15",
+      "time": "11:00 AM GMT+11",
+      "venue": "Meta APEX",
+      "location": "Las Vegas, NV, United States",
+      "is_ppv": false,
+      "is_fight_night": true,
+      "status": "upcoming",
+      "url": null,
+      "fight_count": 14,
+      "main_card": [
+        {
+          "position": 1,
+          "weight_class": "Featherweight",
+          "fighter_a": {
+            "name": "Josh Emmett",
+            "rank": "#11",
+            "country": "United States",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Kevin Vallejos",
+            "rank": "#14",
+            "country": "Argentina",
+            "odds": "-"
+          },
+          "is_main_event": true,
+          "is_title_fight": false
+        },
+        {
+          "position": 2,
+          "weight_class": "Women's Strawweight",
+          "fighter_a": {
+            "name": "Amanda Lemos",
+            "rank": "#5",
+            "country": "Brazil",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Gillian Robertson",
+            "rank": "#8",
+            "country": "Canada",
+            "odds": "-"
+          },
+          "is_main_event": false,
+          "is_title_fight": false
+        },
+        {
+          "position": 3,
+          "weight_class": "Light Heavyweight",
+          "fighter_a": {
+            "name": "Ion Cutelaba",
+            "rank": null,
+            "country": "Moldova",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Oumar Sy",
+            "rank": null,
+            "country": "France",
+            "odds": "-"
+          },
+          "is_main_event": false,
+          "is_title_fight": false
+        },
+        {
+          "position": 4,
+          "weight_class": "Featherweight",
+          "fighter_a": {
+            "name": "Andre Fili",
+            "rank": null,
+            "country": "United States",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Jose Miguel Delgado",
+            "rank": null,
+            "country": "Mexico",
+            "odds": "-"
+          },
+          "is_main_event": false,
+          "is_title_fight": false
+        },
+        {
+          "position": 5,
+          "weight_class": "Featherweight",
+          "fighter_a": {
+            "name": "Marwan Rahiki",
+            "rank": null,
+            "country": "Morocco",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Harry Hardwick",
+            "rank": null,
+            "country": "England",
+            "odds": "-"
+          },
+          "is_main_event": false,
+          "is_title_fight": false
+        },
+        {
+          "position": 6,
+          "weight_class": "Flyweight",
+          "fighter_a": {
+            "name": "Charles Johnson",
+            "rank": "#14",
+            "country": "United States",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Bruno Silva",
+            "rank": "#15",
+            "country": "Brazil",
+            "odds": "-"
+          },
+          "is_main_event": false,
+          "is_title_fight": false
+        }
+      ],
+      "prelims": [
+        {
+          "position": 1,
+          "weight_class": "Heavyweight",
+          "fighter_a": {
+            "name": "Vitor Petrino",
+            "rank": "#15",
+            "country": "Brazil",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Steven Asplund",
+            "rank": null,
+            "country": "United States",
+            "odds": "-"
+          }
+        },
+        {
+          "position": 2,
+          "weight_class": "Middleweight",
+          "fighter_a": {
+            "name": "Brad Tavares",
+            "rank": null,
+            "country": "United States",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Eryk Anders",
+            "rank": null,
+            "country": "United States",
+            "odds": "-"
+          }
+        },
+        {
+          "position": 3,
+          "weight_class": "Welterweight",
+          "fighter_a": {
+            "name": "Chris Curtis",
+            "rank": null,
+            "country": "United States",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Myktybek Orolbai",
+            "rank": null,
+            "country": "Kyrgyzstan",
+            "odds": "-"
+          }
+        },
+        {
+          "position": 4,
+          "weight_class": "Lightweight",
+          "fighter_a": {
+            "name": "Bolaji Oki",
+            "rank": null,
+            "country": "Belgium",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Manoel Sousa",
+            "rank": null,
+            "country": "Brazil",
+            "odds": "-"
+          }
+        },
+        {
+          "position": 5,
+          "weight_class": "Bantamweight",
+          "fighter_a": {
+            "name": "Luan Lacerda",
+            "rank": null,
+            "country": "Brazil",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Hecher Sosa",
+            "rank": null,
+            "country": "Spain",
+            "odds": "-"
+          }
+        },
+        {
+          "position": 6,
+          "weight_class": "Women's Bantamweight",
+          "fighter_a": {
+            "name": "Bia Mesquita",
+            "rank": null,
+            "country": "Brazil",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Montse Rendon",
+            "rank": null,
+            "country": "Mexico",
+            "odds": "-"
+          }
+        },
+        {
+          "position": 7,
+          "weight_class": "Bantamweight",
+          "fighter_a": {
+            "name": "Elijah Smith",
+            "rank": null,
+            "country": "United States",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "SuYoung You",
+            "rank": null,
+            "country": "South Korea",
+            "odds": "-"
+          }
+        },
+        {
+          "position": 8,
+          "weight_class": "Women's Strawweight",
+          "fighter_a": {
+            "name": "Piera Rodriguez",
+            "rank": null,
+            "country": "Venezuela",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Sam Hughes",
+            "rank": null,
+            "country": "United States",
+            "odds": "-"
+          }
+        }
+      ],
+      "fighters": [
+        {
+          "name": "Josh Emmett",
+          "rank": "#11",
+          "country": "United States",
+          "opponent": "Kevin Vallejos",
+          "weight_class": "Featherweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "fba03cd6cc28dc41",
+          "record": "19-6-0",
+          "stats": {
+            "slpm": 3.72,
+            "sig_strike_acc": 0.35,
+            "td_avg": 1.08
+          }
+        },
+        {
+          "name": "Kevin Vallejos",
+          "rank": "#14",
+          "country": "Argentina",
+          "opponent": "Josh Emmett",
+          "weight_class": "Featherweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "239d8e5359022f3b",
+          "record": "17-1-0",
+          "stats": {
+            "slpm": 5.78,
+            "sig_strike_acc": 0.46,
+            "td_avg": 0.71
+          }
+        },
+        {
+          "name": "Amanda Lemos",
+          "rank": "#5",
+          "country": "Brazil",
+          "opponent": "Gillian Robertson",
+          "weight_class": "Women's Strawweight",
+          "is_main_event": false,
+          "card": "main",
+          "ufc_id": "3df5493bb279226f",
+          "record": "15-5-1",
+          "stats": {
+            "slpm": 2.75,
+            "sig_strike_acc": 0.55,
+            "td_avg": 1.02
+          }
+        },
+        {
+          "name": "Gillian Robertson",
+          "rank": "#8",
+          "country": "Canada",
+          "opponent": "Amanda Lemos",
+          "weight_class": "Women's Strawweight",
+          "is_main_event": false,
+          "card": "main",
+          "ufc_id": "38c7f72747f4f712",
+          "record": "16-8-0",
+          "stats": {
+            "slpm": 2.86,
+            "sig_strike_acc": 0.48,
+            "td_avg": 2.74
+          }
+        },
+        {
+          "name": "Ion Cutelaba",
+          "rank": null,
+          "country": "Moldova",
+          "opponent": "Oumar Sy",
+          "weight_class": "Light Heavyweight",
+          "is_main_event": false,
+          "card": "main",
+          "ufc_id": "cd13728ae1151f46",
+          "record": "19-11-1",
+          "stats": {
+            "slpm": 4.26,
+            "sig_strike_acc": 0.43,
+            "td_avg": 3.77
+          }
+        },
+        {
+          "name": "Oumar Sy",
+          "rank": null,
+          "country": "France",
+          "opponent": "Ion Cutelaba",
+          "weight_class": "Light Heavyweight",
+          "is_main_event": false,
+          "card": "main",
+          "ufc_id": "46e2011d92463b7e",
+          "record": "12-1-0",
+          "stats": {
+            "slpm": 3.67,
+            "sig_strike_acc": 0.48,
+            "td_avg": 2.73
+          }
+        },
+        {
+          "name": "Andre Fili",
+          "rank": null,
+          "country": "United States",
+          "opponent": "Jose Miguel Delgado",
+          "weight_class": "Featherweight",
+          "is_main_event": false,
+          "card": "main",
+          "ufc_id": "8fd808923cffff82",
+          "record": "25-12-0",
+          "stats": {
+            "slpm": 3.87,
+            "sig_strike_acc": 0.37,
+            "td_avg": 2.22
+          }
+        },
+        {
+          "name": "Jose Miguel Delgado",
+          "rank": null,
+          "country": "Mexico",
+          "opponent": "Andre Fili",
+          "weight_class": "Featherweight",
+          "is_main_event": false,
+          "card": "main"
+        },
+        {
+          "name": "Marwan Rahiki",
+          "rank": null,
+          "country": "Morocco",
+          "opponent": "Harry Hardwick",
+          "weight_class": "Featherweight",
+          "is_main_event": false,
+          "card": "main",
+          "ufc_id": "6eedb757f13b9978",
+          "record": "7-0-0",
+          "stats": {
+            "slpm": 5.96,
+            "sig_strike_acc": 0.47,
+            "td_avg": 0.0
+          }
+        },
+        {
+          "name": "Harry Hardwick",
+          "rank": null,
+          "country": "England",
+          "opponent": "Marwan Rahiki",
+          "weight_class": "Featherweight",
+          "is_main_event": false,
+          "card": "main",
+          "ufc_id": "2dbc60c52de126d8",
+          "record": "13-4-1",
+          "stats": {
+            "slpm": 2.39,
+            "sig_strike_acc": 0.34,
+            "td_avg": 0.0
+          }
+        },
+        {
+          "name": "Charles Johnson",
+          "rank": "#14",
+          "country": "United States",
+          "opponent": "Bruno Silva",
+          "weight_class": "Flyweight",
+          "is_main_event": false,
+          "card": "main",
+          "ufc_id": "814e5233e2acf2ee",
+          "record": "18-8-0",
+          "stats": {
+            "slpm": 4.68,
+            "sig_strike_acc": 0.49,
+            "td_avg": 0.55
+          }
+        },
+        {
+          "name": "Bruno Silva",
+          "rank": "#15",
+          "country": "Brazil",
+          "opponent": "Charles Johnson",
+          "weight_class": "Flyweight",
+          "is_main_event": false,
+          "card": "main",
+          "ufc_id": "12ebd7d157e91701",
+          "record": "23-13-0",
+          "stats": {
+            "slpm": 3.86,
+            "sig_strike_acc": 0.48,
+            "td_avg": 0.77
+          }
+        },
+        {
+          "name": "Vitor Petrino",
+          "rank": "#15",
+          "country": "Brazil",
+          "opponent": "Steven Asplund",
+          "weight_class": "Heavyweight",
+          "card": "prelim",
+          "ufc_id": "71171fc96445bf65",
+          "record": "13-2-0",
+          "stats": {
+            "slpm": 2.75,
+            "sig_strike_acc": 0.46,
+            "td_avg": 3.04
+          }
+        },
+        {
+          "name": "Steven Asplund",
+          "rank": null,
+          "country": "United States",
+          "opponent": "Vitor Petrino",
+          "weight_class": "Heavyweight",
+          "card": "prelim",
+          "ufc_id": "e56cee1ad697db04",
+          "record": "7-1-0",
+          "stats": {
+            "slpm": 19.93,
+            "sig_strike_acc": 0.58,
+            "td_avg": 0.0
+          }
+        },
+        {
+          "name": "Brad Tavares",
+          "rank": null,
+          "country": "United States",
+          "opponent": "Eryk Anders",
+          "weight_class": "Middleweight",
+          "card": "prelim",
+          "ufc_id": "0c6d9ea8306c029e",
+          "record": "21-12-0",
+          "stats": {
+            "slpm": 3.42,
+            "sig_strike_acc": 0.43,
+            "td_avg": 0.73
+          }
+        },
+        {
+          "name": "Eryk Anders",
+          "rank": null,
+          "country": "United States",
+          "opponent": "Brad Tavares",
+          "weight_class": "Middleweight",
+          "card": "prelim",
+          "ufc_id": "cad24459b28592ca",
+          "record": "17-9-0",
+          "stats": {
+            "slpm": 3.51,
+            "sig_strike_acc": 0.48,
+            "td_avg": 1.75
+          }
+        },
+        {
+          "name": "Chris Curtis",
+          "rank": null,
+          "country": "United States",
+          "opponent": "Myktybek Orolbai",
+          "weight_class": "Welterweight",
+          "card": "prelim",
+          "ufc_id": "5442f1bc4b47eaf3",
+          "record": "32-12-0",
+          "stats": {
+            "slpm": 5.98,
+            "sig_strike_acc": 0.5,
+            "td_avg": 0.0
+          }
+        },
+        {
+          "name": "Myktybek Orolbai",
+          "rank": null,
+          "country": "Kyrgyzstan",
+          "opponent": "Chris Curtis",
+          "weight_class": "Welterweight",
+          "card": "prelim",
+          "ufc_id": "bf2c8e01b07d3eb1",
+          "record": "15-2-1",
+          "stats": {
+            "slpm": 3.24,
+            "sig_strike_acc": 0.48,
+            "td_avg": 5.48
+          }
+        },
+        {
+          "name": "Bolaji Oki",
+          "rank": null,
+          "country": "Belgium",
+          "opponent": "Manoel Sousa",
+          "weight_class": "Lightweight",
+          "card": "prelim",
+          "ufc_id": "4bdedbdeedff7d1d",
+          "record": "10-3-0",
+          "stats": {
+            "slpm": 6.59,
+            "sig_strike_acc": 0.44,
+            "td_avg": 1.01
+          }
+        },
+        {
+          "name": "Manoel Sousa",
+          "rank": null,
+          "country": "Brazil",
+          "opponent": "Bolaji Oki",
+          "weight_class": "Lightweight",
+          "card": "prelim",
+          "ufc_id": "5870c541798124ae",
+          "record": "13-1-0",
+          "stats": {
+            "slpm": 3.23,
+            "sig_strike_acc": 0.58,
+            "td_avg": 0.0
+          }
+        },
+        {
+          "name": "Luan Lacerda",
+          "rank": null,
+          "country": "Brazil",
+          "opponent": "Hecher Sosa",
+          "weight_class": "Bantamweight",
+          "card": "prelim",
+          "ufc_id": "6fc506e1099afe20",
+          "record": "13-3-0",
+          "stats": {
+            "slpm": 4.02,
+            "sig_strike_acc": 0.46,
+            "td_avg": 2.29
+          }
+        },
+        {
+          "name": "Hecher Sosa",
+          "rank": null,
+          "country": "Spain",
+          "opponent": "Luan Lacerda",
+          "weight_class": "Bantamweight",
+          "card": "prelim",
+          "ufc_id": "ec3bd30378d63dd1",
+          "record": "13-1-0",
+          "stats": {
+            "slpm": 2.13,
+            "sig_strike_acc": 0.5,
+            "td_avg": 4.0
+          }
+        },
+        {
+          "name": "Bia Mesquita",
+          "rank": null,
+          "country": "Brazil",
+          "opponent": "Montse Rendon",
+          "weight_class": "Women's Bantamweight",
+          "card": "prelim",
+          "ufc_id": "eff9074bc066f0f2",
+          "record": "6-0-0",
+          "stats": {
+            "slpm": 4.98,
+            "sig_strike_acc": 0.57,
+            "td_avg": 4.15
+          }
+        },
+        {
+          "name": "Montse Rendon",
+          "rank": null,
+          "country": "Mexico",
+          "opponent": "Bia Mesquita",
+          "weight_class": "Women's Bantamweight",
+          "card": "prelim",
+          "ufc_id": "60193e707634e560",
+          "record": "7-1-0",
+          "stats": {
+            "slpm": 3.09,
+            "sig_strike_acc": 0.28,
+            "td_avg": 2.0
+          }
+        },
+        {
+          "name": "Elijah Smith",
+          "rank": null,
+          "country": "United States",
+          "opponent": "SuYoung You",
+          "weight_class": "Bantamweight",
+          "card": "prelim",
+          "ufc_id": "7478b7f959ba61f5",
+          "record": "9-1-0",
+          "stats": {
+            "slpm": 4.45,
+            "sig_strike_acc": 0.47,
+            "td_avg": 3.51
+          }
+        },
+        {
+          "name": "SuYoung You",
+          "rank": null,
+          "country": "South Korea",
+          "opponent": "Elijah Smith",
+          "weight_class": "Bantamweight",
+          "card": "prelim",
+          "ufc_id": "a474aade8eb3a8f0",
+          "record": "16-3-0",
+          "stats": {
+            "slpm": 2.28,
+            "sig_strike_acc": 0.46,
+            "td_avg": 3.8
+          }
+        },
+        {
+          "name": "Piera Rodriguez",
+          "rank": null,
+          "country": "Venezuela",
+          "opponent": "Sam Hughes",
+          "weight_class": "Women's Strawweight",
+          "card": "prelim",
+          "ufc_id": "e375cb5caf4717b6",
+          "record": "11-2-0",
+          "stats": {
+            "slpm": 3.54,
+            "sig_strike_acc": 0.47,
+            "td_avg": 4.53
+          }
+        },
+        {
+          "name": "Sam Hughes",
+          "rank": null,
+          "country": "United States",
+          "opponent": "Piera Rodriguez",
+          "weight_class": "Women's Strawweight",
+          "card": "prelim",
+          "ufc_id": "e94085e821bd81de",
+          "record": "11-6-0",
+          "stats": {
+            "slpm": 4.34,
+            "sig_strike_acc": 0.46,
+            "td_avg": 1.23
+          }
+        }
+      ]
+    },
+    {
+      "id": "ufc-fight-night-march-21-2026",
+      "ufc_id": null,
+      "name": "UFC Fight Night: Evloev vs Murphy",
+      "date": "2026-03-22",
+      "time": "07:00 AM GMT+11",
+      "venue": "O2 Arena",
+      "location": "London, United Kingdom",
+      "is_ppv": false,
+      "is_fight_night": true,
+      "status": "upcoming",
+      "url": null,
+      "fight_count": 1,
+      "main_card": [
+        {
+          "position": 1,
+          "weight_class": "Featherweight",
+          "fighter_a": {
+            "name": "Movsar Evloev",
+            "rank": "#1",
+            "country": "Russia",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Lerone Murphy",
+            "rank": "#3",
+            "country": "England",
+            "odds": "-"
+          },
+          "is_main_event": true,
+          "is_title_fight": false
+        }
+      ],
+      "prelims": [],
+      "fighters": [
+        {
+          "name": "Movsar Evloev",
+          "rank": "#1",
+          "country": "Russia",
+          "opponent": "Lerone Murphy",
+          "weight_class": "Featherweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "76e2870ffafbe38f",
+          "record": "19-0-0",
+          "stats": {
+            "slpm": 3.99,
+            "sig_strike_acc": 0.48,
+            "td_avg": 4.67
+          }
+        },
+        {
+          "name": "Lerone Murphy",
+          "rank": "#3",
+          "country": "England",
+          "opponent": "Movsar Evloev",
+          "weight_class": "Featherweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "396fe87b84ac2e1c",
+          "record": "17-0-1",
+          "stats": {
+            "slpm": 4.48,
+            "sig_strike_acc": 0.53,
+            "td_avg": 1.41
+          }
+        }
+      ]
+    },
+    {
+      "id": "ufc-fight-night-march-28-2026",
+      "ufc_id": null,
+      "name": "UFC Fight Night: Adesanya vs Pyfer",
+      "date": "2026-03-29",
+      "time": "11:00 AM GMT+11",
+      "venue": "Climate Pledge Arena",
+      "location": "Seattle, WA, United States",
+      "is_ppv": false,
+      "is_fight_night": true,
+      "status": "upcoming",
+      "url": null,
+      "fight_count": 1,
+      "main_card": [
+        {
+          "position": 1,
+          "weight_class": "Middleweight",
+          "fighter_a": {
+            "name": "Israel Adesanya",
+            "rank": "#4",
+            "country": "Nigeria",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Joe Pyfer",
+            "rank": "#14",
+            "country": "United States",
+            "odds": "-"
+          },
+          "is_main_event": true,
+          "is_title_fight": false
+        }
+      ],
+      "prelims": [],
+      "fighters": [
+        {
+          "name": "Israel Adesanya",
+          "rank": "#4",
+          "country": "Nigeria",
+          "opponent": "Joe Pyfer",
+          "weight_class": "Middleweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "1338e2c7480bdf9e",
+          "record": "24-5-0",
+          "stats": {
+            "slpm": 4.02,
+            "sig_strike_acc": 0.48,
+            "td_avg": 0.05
+          }
+        },
+        {
+          "name": "Joe Pyfer",
+          "rank": "#14",
+          "country": "United States",
+          "opponent": "Israel Adesanya",
+          "weight_class": "Middleweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "c1085e1701b13eca",
+          "record": "15-3-0",
+          "stats": {
+            "slpm": 3.47,
+            "sig_strike_acc": 0.43,
+            "td_avg": 1.23
+          }
+        }
+      ]
+    },
+    {
+      "id": "ufc-fight-night-april-04-2026",
+      "ufc_id": null,
+      "name": "UFC Fight Night: Moicano vs Duncan",
+      "date": "2026-04-05",
+      "time": "08:00 AM GMT+11",
+      "venue": "Meta APEX",
+      "location": "Las Vegas, NV, United States",
+      "is_ppv": false,
+      "is_fight_night": true,
+      "status": "upcoming",
+      "url": null,
+      "fight_count": 1,
+      "main_card": [
+        {
+          "position": 1,
+          "weight_class": "Lightweight",
+          "fighter_a": {
+            "name": "Renato Moicano",
+            "rank": "#11",
+            "country": "Brazil",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Grant Dawson",
+            "rank": null,
+            "country": "United States",
+            "odds": "-"
+          },
+          "is_main_event": true,
+          "is_title_fight": false
+        }
+      ],
+      "prelims": [],
+      "fighters": [
+        {
+          "name": "Renato Moicano",
+          "rank": "#11",
+          "country": "Brazil",
+          "opponent": "Grant Dawson",
+          "weight_class": "Lightweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "b6452706b373eea1",
+          "record": "20-7-1",
+          "stats": {
+            "slpm": 4.17,
+            "sig_strike_acc": 0.48,
+            "td_avg": 1.67
+          }
+        },
+        {
+          "name": "Grant Dawson",
+          "rank": null,
+          "country": "United States",
+          "opponent": "Renato Moicano",
+          "weight_class": "Lightweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "99bd51917728c25d",
+          "record": "23-3-1",
+          "stats": {
+            "slpm": 3.21,
+            "sig_strike_acc": 0.52,
+            "td_avg": 3.81
+          }
+        }
+      ]
+    },
+    {
+      "id": "ufc-327",
+      "ufc_id": null,
+      "name": "UFC 327: Prochazka vs Ulberg",
+      "date": "2026-04-12",
+      "time": "11:00 AM GMT+11",
+      "venue": "Kaseya Center",
+      "location": "Miami, FL, United States",
+      "is_ppv": true,
+      "is_fight_night": false,
+      "status": "upcoming",
+      "url": null,
+      "fight_count": 1,
+      "main_card": [
+        {
+          "position": 1,
+          "weight_class": "Light Heavyweight",
+          "fighter_a": {
+            "name": "Jiri Prochazka",
+            "rank": "#2",
+            "country": "Czech Republic",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Carlos Ulberg",
+            "rank": "#3",
+            "country": "New Zealand",
+            "odds": "-"
+          },
+          "is_main_event": true,
+          "is_title_fight": false
+        }
+      ],
+      "prelims": [],
+      "fighters": [
+        {
+          "name": "Jiri Prochazka",
+          "rank": "#2",
+          "country": "Czech Republic",
+          "opponent": "Carlos Ulberg",
+          "weight_class": "Light Heavyweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "009341ed974bad72",
+          "record": "32-5-1",
+          "stats": {
+            "slpm": 5.69,
+            "sig_strike_acc": 0.55,
+            "td_avg": 0.51
+          }
+        },
+        {
+          "name": "Carlos Ulberg",
+          "rank": "#3",
+          "country": "New Zealand",
+          "opponent": "Jiri Prochazka",
+          "weight_class": "Light Heavyweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "9014c02eff8b3d62",
+          "record": "14-1-0",
+          "stats": {
+            "slpm": 6.54,
+            "sig_strike_acc": 0.55,
+            "td_avg": 0.55
+          }
+        }
+      ]
+    },
+    {
+      "id": "ufc-fight-night-april-18-2026",
+      "ufc_id": null,
+      "name": "UFC Fight Night: Burns vs Malott",
+      "date": "2026-04-19",
+      "time": "12:00 PM GMT+11",
+      "venue": "Canada Life Centre",
+      "location": "Winnipeg, MB, Canada",
+      "is_ppv": false,
+      "is_fight_night": true,
+      "status": "upcoming",
+      "url": null,
+      "fight_count": 1,
+      "main_card": [
+        {
+          "position": 1,
+          "weight_class": "Welterweight",
+          "fighter_a": {
+            "name": "Gilbert Burns",
+            "rank": "#11",
+            "country": "Brazil",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Mike Malott",
+            "rank": null,
+            "country": "Canada",
+            "odds": "-"
+          },
+          "is_main_event": true,
+          "is_title_fight": false
+        }
+      ],
+      "prelims": [],
+      "fighters": [
+        {
+          "name": "Gilbert Burns",
+          "rank": "#11",
+          "country": "Brazil",
+          "opponent": "Mike Malott",
+          "weight_class": "Welterweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "23024fdfc966410a",
+          "record": "22-9-0",
+          "stats": {
+            "slpm": 3.15,
+            "sig_strike_acc": 0.48,
+            "td_avg": 2.12
+          }
+        },
+        {
+          "name": "Mike Malott",
+          "rank": null,
+          "country": "Canada",
+          "opponent": "Gilbert Burns",
+          "weight_class": "Welterweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "dd6103dd7127db1d",
+          "record": "13-2-1",
+          "stats": {
+            "slpm": 3.93,
+            "sig_strike_acc": 0.48,
+            "td_avg": 1.88
+          }
+        }
+      ]
+    },
+    {
+      "id": "ufc-fight-night-april-25-2026",
+      "ufc_id": null,
+      "name": "UFC Fight Night: Brady vs Buckley",
+      "date": "2026-04-26",
+      "time": "10:00 AM GMT+11",
+      "venue": "Meta APEX",
+      "location": "Las Vegas, NV, United States",
+      "is_ppv": false,
+      "is_fight_night": true,
+      "status": "upcoming",
+      "url": null,
+      "fight_count": 1,
+      "main_card": [
+        {
+          "position": 1,
+          "weight_class": "Welterweight",
+          "fighter_a": {
+            "name": "Sean Brady",
+            "rank": "#6",
+            "country": "United States",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Joaquin Buckley",
+            "rank": "#9",
+            "country": "United States",
+            "odds": "-"
+          },
+          "is_main_event": true,
+          "is_title_fight": false
+        }
+      ],
+      "prelims": [],
+      "fighters": [
+        {
+          "name": "Sean Brady",
+          "rank": "#6",
+          "country": "United States",
+          "opponent": "Joaquin Buckley",
+          "weight_class": "Welterweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "45f7cb591c3ab00b",
+          "record": "18-2-0",
+          "stats": {
+            "slpm": 3.96,
+            "sig_strike_acc": 0.55,
+            "td_avg": 3.53
+          }
+        },
+        {
+          "name": "Joaquin Buckley",
+          "rank": "#9",
+          "country": "United States",
+          "opponent": "Sean Brady",
+          "weight_class": "Welterweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "b9437600497350f3",
+          "record": "21-7-0",
+          "stats": {
+            "slpm": 3.88,
+            "sig_strike_acc": 0.36,
+            "td_avg": 1.54
+          }
+        }
+      ]
+    },
+    {
+      "id": "ufc-fight-night-may-02-2026",
+      "ufc_id": null,
+      "name": "UFC Fight Night: Della Maddalena vs Prates",
+      "date": "2026-05-02",
+      "time": "09:00 PM GMT+11",
+      "venue": "RAC Arena",
+      "location": "Perth, WA, Australia",
+      "is_ppv": false,
+      "is_fight_night": true,
+      "status": "upcoming",
+      "url": null,
+      "fight_count": 1,
+      "main_card": [
+        {
+          "position": 1,
+          "weight_class": "Welterweight",
+          "fighter_a": {
+            "name": "Jack Della Maddalena",
+            "rank": "#1",
+            "country": "Australia",
+            "odds": "-"
+          },
+          "fighter_b": {
+            "name": "Carlos Prates",
+            "rank": "#5",
+            "country": "Brazil",
+            "odds": "-"
+          },
+          "is_main_event": true,
+          "is_title_fight": false
+        }
+      ],
+      "prelims": [],
+      "fighters": [
+        {
+          "name": "Jack Della Maddalena",
+          "rank": "#1",
+          "country": "Australia",
+          "opponent": "Carlos Prates",
+          "weight_class": "Welterweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "6b453bc35a823c3f",
+          "record": "18-3-0",
+          "stats": {
+            "slpm": 5.57,
+            "sig_strike_acc": 0.51,
+            "td_avg": 0.13
+          }
+        },
+        {
+          "name": "Carlos Prates",
+          "rank": "#5",
+          "country": "Brazil",
+          "opponent": "Jack Della Maddalena",
+          "weight_class": "Welterweight",
+          "is_main_event": true,
+          "card": "main",
+          "ufc_id": "7ee0fd831c0fe7c3",
+          "record": "23-7-0",
+          "stats": {
+            "slpm": 3.77,
+            "sig_strike_acc": 0.55,
+            "td_avg": 0.21
+          }
+        }
+      ]
+    }
+  ]
+}
