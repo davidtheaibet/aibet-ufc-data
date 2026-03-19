@@ -23,14 +23,41 @@
 
 ---
 
+## Fighter ID Reference
+
+**Critical for Integration:**
+
+| Field | Location | Type | Purpose |
+|-------|----------|------|---------|
+| `id` | fighters.json | Integer | **Numeric UFC fighter ID** — Use for linking fight records |
+| `ufc_id` | fighters.json | String | **String UFC stats ID** — Use for profile/sync operations |
+| `fighter_a_id` | fight-history.json | Integer | References fighters.json `id` |
+| `fighter_b_id` | fight-history.json | Integer | References fighters.json `id` |
+| `winner_id` | fight-history.json | Integer | References fighters.json `id` |
+| `fighter_id` | fighter-histories.json | Integer | References fighters.json `id` |
+
+**Example:** Carlos Prates
+- `id`: 3212 (numeric UFC ID — use this for fight lookups)
+- `ufc_id`: "7ee0fd831c0fe7c3" (string ID — use for UFC stats API)
+
+**To link a fighter to their fights:**
+1. Get fighter from fighters.json by `id` (e.g., 3212)
+2. Find fights in fight-history.json where `fighter_a_id=3212` OR `fighter_b_id=3212`
+3. Use `winner_id` to determine if they won (winner_id === 3212)
+
+---
+
 ## fighters.json Schema
 
 **Type:** Array of fighter objects
 
+**IMPORTANT:** The `id` field is the **numeric UFC fighter ID** (e.g., 3212 for Carlos Prates). This is the same ID used in `fight-history.json` for `fighter_a_id`, `fighter_b_id`, and `winner_id`. The `ufc_id` field is the string-based UFC stats identifier used for profile syncing.
+
 ```json
 {
-  "id": 1234,
-  "name": "Max Holloway",
+  "id": 3212,
+  "ufc_id": "7ee0fd831c0fe7c3",
+  "name": "Carlos Prates",
   "nickname": "Blessed",
   "weight_class": "Featherweight",
   "weight_lbs": 145,
@@ -56,7 +83,8 @@
 **Field Definitions:**
 | Field | Type | Description |
 |-------|------|-------------|
-| `id` | Integer | Unique fighter ID |
+| `id` | Integer | **Numeric UFC fighter ID** — Use this to link with fight records (fighter_a_id, fighter_b_id, winner_id) |
+| `ufc_id` | String | String-based UFC stats identifier — Use this for syncing fighter profile data from UFC stats |
 | `name` | String | Full name |
 | `nickname` | String | Fighter nickname |
 | `weight_class` | String | Current weight class |
@@ -124,12 +152,12 @@ Same as events.json but for scheduled future events.
   "event_name": "UFC 326: Holloway vs Oliveira 2",
   "date": "2026-03-08",
   "fighter_a": "Max Holloway",
-  "fighter_a_id": 1234,
+  "fighter_a_id": 3212,
   "fighter_b": "Charles Oliveira",
-  "fighter_b_id": 5678,
+  "fighter_b_id": 1234,
   "weight_class": "Lightweight",
   "winner": "Charles Oliveira",
-  "winner_id": 5678,
+  "winner_id": 3212,
   "method": "TKO",
   "round": 3,
   "time": "4:32",
@@ -154,25 +182,25 @@ Same as events.json but for scheduled future events.
 
 ## fighter-histories.json Schema
 
-**Type:** Object with fighter_id as key
+**Type:** Object with fighter_id (numeric UFC ID) as key
 
 ```json
 {
-  "1234": {
-    "fighter_id": 1234,
-    "name": "Max Holloway",
+  "3212": {
+    "fighter_id": 3212,
+    "name": "Carlos Prates",
     "last_5_fights": [
       {
         "date": "2026-03-08",
         "opponent": "Charles Oliveira",
-        "opponent_id": 5678,
-        "result": "L",
-        "method": "TKO",
+        "opponent_id": 1234,
+        "result": "W",
+        "method": "KO",
         "round": 3,
         "event": "UFC 326"
       }
     ],
-    "record_last_5": "3-2-0"
+    "record_last_5": "4-1-0"
   }
 }
 ```
@@ -185,9 +213,9 @@ Same as events.json but for scheduled future events.
 
 ```json
 {
-  "1234": {
-    "fighter_id": 1234,
-    "name": "Max Holloway",
+  "3212": {
+    "fighter_id": 3212,
+    "name": "Carlos Prates",
     "natural_weight_class": "Featherweight",
     "current_weight_class": "Lightweight",
     "history": [
