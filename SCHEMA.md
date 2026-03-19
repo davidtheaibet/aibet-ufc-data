@@ -30,11 +30,12 @@
 | Field | Location | Type | Purpose |
 |-------|----------|------|---------|
 | `id` | fighters.json | Integer | **Numeric UFC fighter ID** — Use for linking fight records |
+| `external_id` | fighters.json | Integer | **Same as `id`** — Use if your DB uses `ufc_id` as primary key |
 | `ufc_id` | fighters.json | String | **String UFC stats ID** — Use for profile/sync operations |
-| `fighter_a_id` | fight-history.json | Integer | References fighters.json `id` |
-| `fighter_b_id` | fight-history.json | Integer | References fighters.json `id` |
-| `winner_id` | fight-history.json | Integer | References fighters.json `id` |
-| `fighter_id` | fighter-histories.json | Integer | References fighters.json `id` |
+| `fighter_a_id` | fight-history.json | Integer | References fighters.json `id` or `external_id` |
+| `fighter_b_id` | fight-history.json | Integer | References fighters.json `id` or `external_id` |
+| `winner_id` | fight-history.json | Integer | References fighters.json `id` or `external_id` |
+| `fighter_id` | fighter-histories.json | Integer | References fighters.json `id` or `external_id` |
 
 **Example:** Carlos Prates
 - `id`: 3212 (numeric UFC ID — use this for fight lookups)
@@ -56,6 +57,7 @@
 ```json
 {
   "id": 3212,
+  "external_id": 3212,
   "ufc_id": "7ee0fd831c0fe7c3",
   "name": "Carlos Prates",
   "nickname": "Blessed",
@@ -84,6 +86,7 @@
 | Field | Type | Description |
 |-------|------|-------------|
 | `id` | Integer | **Numeric UFC fighter ID** — Use this to link with fight records (fighter_a_id, fighter_b_id, winner_id) |
+| `external_id` | Integer | **Same as `id`** — Provided for teams using `ufc_id` as their primary key. Use this to link with fight records. |
 | `ufc_id` | String | String-based UFC stats identifier — Use this for syncing fighter profile data from UFC stats |
 | `name` | String | Full name |
 | `nickname` | String | Fighter nickname |
