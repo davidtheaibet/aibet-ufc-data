@@ -289,16 +289,19 @@ class ConfidenceCalculator:
 
 # Calibration data from historical fight analysis
 # Format: {predicted_probability: actual_accuracy}
-# Generated from 198 analyzed fights (2026-03-12)
+# Generated from 292 analyzed fights (2026-04-30)
+# After adding 90 new fighters from recent fight history
 DEFAULT_CALIBRATION = {
-    0.53: 0.59,  # Model predicts 53%, actual 59% (slight undervaluation)
-    0.58: 0.84,  # Model predicts 58%, actual 84% (conservative)
-    0.62: 0.98,  # Model predicts 62%, actual 98% (very conservative)
-    0.68: 1.00,  # Model predicts 68%, actual 100% (extremely conservative)
-    0.72: 0.92,  # Model predicts 72%, actual 92% (slight undervaluation)
-    0.78: 1.00,  # Model predicts 78%, actual 100%
-    0.83: 1.00,  # Model predicts 83%, actual 100%
-    0.88: 1.00,  # Model predicts 88%, actual 100%
+    0.53: 0.68,  # Model predicts 53%, actual 68% (conservative)
+    0.58: 0.72,  # Model predicts 58%, actual 72% (conservative)
+    0.62: 0.91,  # Model predicts 62%, actual 91% (very conservative)
+    0.68: 0.92,  # Model predicts 68%, actual 92% (very conservative)
+    0.72: 0.73,  # Model predicts 72%, actual 73% (well calibrated)
+    0.78: 0.97,  # Model predicts 78%, actual 97% (conservative)
+    0.83: 0.86,  # Model predicts 83%, actual 86% (well calibrated)
+    0.88: 0.86,  # Model predicts 88%, actual 86% (slight overvaluation)
+    0.93: 1.00,  # Model predicts 93%, actual 100%
+    0.97: 1.00,  # Model predicts 97%, actual 100%
 }
 
 

@@ -1,0 +1,2917 @@
+[
+  {
+    "name": "Lone'er Kavanagh",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Brandon Moreno",
+        "result": "Win",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-08-23",
+        "opponent": "Charles Johnson",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Brandon Moreno",
+    "record_wins": 0,
+    "record_losses": 2,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Lone'er Kavanagh",
+        "result": "Loss",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-12-06",
+        "opponent": "Tatsuro Taira",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "David Martinez",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Marlon Vera",
+        "result": "Win",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-09-13",
+        "opponent": "Rob Font",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 2
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Marlon Vera",
+    "record_wins": 0,
+    "record_losses": 2,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "David Martinez",
+        "result": "Loss",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-10-18",
+        "opponent": "Aiemann Zahabi",
+        "result": "Loss",
+        "method": "S-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "King Green",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Daniel Zellhuber",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      },
+      {
+        "date": "2025-12-13",
+        "opponent": "Lance Gibson Jr.",
+        "result": "Win",
+        "method": "S-DEC"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1,
+      "decisions": 1
+    },
+    "finish_rate": 50.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Daniel Zellhuber",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "King Green",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Imanol Rodriguez",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Kevin Borjas",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Santiago Luna",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Angel Pacheco",
+        "result": "Win",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-09-13",
+        "opponent": "Quang Le",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1,
+      "ko_tko": 1
+    },
+    "finish_rate": 50.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Angel Pacheco",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Santiago Luna",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Ryan Gandra",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Jose Daniel Medina",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Jose Daniel Medina",
+    "record_wins": 0,
+    "record_losses": 2,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Ryan Gandra",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      },
+      {
+        "date": "2025-09-13",
+        "opponent": "Dusko Todorovic",
+        "result": "Loss",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Ailin Perez",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Macy Chiasson",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Cristian Quinonez",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Kris Moutinho",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Kris Moutinho",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Cristian Quinonez",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Javier Reyes",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Douglas Silva de Andrade",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Douglas Silva de Andrade",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Javier Reyes",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Regina Tarin",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Ernesta Kareckaite",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Ernesta Kareckaite",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Regina Tarin",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Francis Marshall",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Erik Silva",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {
+      "submissions": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Erik Silva",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Francis Marshall",
+        "result": "Loss",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Damian Pinas",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Wes Schultz",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Wes Schultz",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-28",
+        "opponent": "Damian Pinas",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Sean Strickland",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Anthony Hernandez",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Anthony Hernandez",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Sean Strickland",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      },
+      {
+        "date": "2025-08-09",
+        "opponent": "Roman Dolidze",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {
+      "submissions": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Uros Medic",
+    "record_wins": 3,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Geoff Neal",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      },
+      {
+        "date": "2025-11-08",
+        "opponent": "Muslim Salikhov",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      },
+      {
+        "date": "2025-08-09",
+        "opponent": "Gilbert Urbina",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 3
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Geoff Neal",
+    "record_wins": 0,
+    "record_losses": 2,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Uros Medic",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      },
+      {
+        "date": "2025-08-16",
+        "opponent": "Carlos Prates",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Spinning Back Elbow"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Melquizael Costa",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Dan Ige",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Spinning Back Kick"
+      },
+      {
+        "date": "2025-12-13",
+        "opponent": "Morgan Charriere",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Kick"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 2
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Dan Ige",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Melquizael Costa",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Spinning Back Kick"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Serghei Spivac",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Ante Delija",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Ante Delija",
+    "record_wins": 1,
+    "record_losses": 2,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Serghei Spivac",
+        "result": "Loss",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-11-01",
+        "opponent": "Waldo Cortes Acosta",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      },
+      {
+        "date": "2025-09-06",
+        "opponent": "Marcin Tybura",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Jacobe Smith",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Josiah Harrell",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Josiah Harrell",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Jacobe Smith",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Michel Pereira",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Zach Reese",
+        "result": "Win",
+        "method": "S-DEC"
+      },
+      {
+        "date": "2025-08-23",
+        "opponent": "Kyle Daukaus",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Elbows"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Zach Reese",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Michel Pereira",
+        "result": "Loss",
+        "method": "S-DEC"
+      },
+      {
+        "date": "2025-11-08",
+        "opponent": "Jackson McVey",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      },
+      {
+        "date": "2025-09-13",
+        "opponent": "Sedriques Dumas",
+        "result": "Unknown",
+        "method": "CNC"
+      }
+    ],
+    "win_methods": {
+      "submissions": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Carlos Leal",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Chidi Njokuani",
+        "result": "Win",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-07-26",
+        "opponent": "Muslim Salikhov",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Chidi Njokuani",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Carlos Leal",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Alibi Idiris",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Ode Osbourne",
+        "result": "Win",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-08-16",
+        "opponent": "Joseph Morales",
+        "result": "Loss",
+        "method": "SUB\n\n      \n\n        Triangle Choke"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Ode Osbourne",
+    "record_wins": 0,
+    "record_losses": 2,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Alibi Idiris",
+        "result": "Loss",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-08-09",
+        "opponent": "Steve Erceg",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Luis Gurule",
+    "record_wins": 0,
+    "record_losses": 2,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Alden Coria",
+        "result": "Loss",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-09-13",
+        "opponent": "Jesus Aguilar",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Joselyne Edwards",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Nora Cornolle",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      },
+      {
+        "date": "2025-08-09",
+        "opponent": "Priscila Cachoeira",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      }
+    ],
+    "win_methods": {
+      "submissions": 1,
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Punahele Soriano",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Ramiz Brahimaj",
+        "result": "Win",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-10-04",
+        "opponent": "Nikolay Veretennikov",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 2
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Jean-Paul Lebosnoyani",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Phil Rowe",
+        "result": "Win",
+        "method": "S-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Phil Rowe",
+    "record_wins": 0,
+    "record_losses": 2,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Jean-Paul Lebosnoyani",
+        "result": "Loss",
+        "method": "S-DEC"
+      },
+      {
+        "date": "2025-11-01",
+        "opponent": "Seokhyeon Ko",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Jordan Leavitt",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Yadier del Valle",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Yadier del Valle",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Jordan Leavitt",
+        "result": "Loss",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-11-01",
+        "opponent": "Isaac Dulgarian",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {
+      "submissions": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Carli Judice",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Juliana Miller",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Juliana Miller",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-21",
+        "opponent": "Carli Judice",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Vinicius Oliveira",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Mario Bautista",
+        "result": "Loss",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Kyoji Horiguchi",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Amir Albazi",
+        "result": "Win",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-11-22",
+        "opponent": "Tagir Ulanbekov",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1,
+      "submissions": 1
+    },
+    "finish_rate": 50.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Rizvan Kuniev",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Jailton Almeida",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Michal Oleksiejczuk",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Marc-Andre Barriault",
+        "result": "Win",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-08-16",
+        "opponent": "Gerald Meerschaert",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1,
+      "ko_tko": 1
+    },
+    "finish_rate": 50.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Jean Matsumoto",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Farid Basharat",
+        "result": "Loss",
+        "method": "S-DEC"
+      },
+      {
+        "date": "2025-08-09",
+        "opponent": "Miles Johns",
+        "result": "Win",
+        "method": "S-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Dustin Jacoby",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Julius Walker",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Julius Walker",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Dustin Jacoby",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      },
+      {
+        "date": "2025-08-09",
+        "opponent": "Rafael Cerqueira",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Daniil Donchenko",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Alex Morono",
+        "result": "Win",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-09-13",
+        "opponent": "Rodrigo Sezinando",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1,
+      "ko_tko": 1
+    },
+    "finish_rate": 50.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Alex Morono",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Daniil Donchenko",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Nikolay Veretennikov",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Niko Price",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      },
+      {
+        "date": "2025-10-04",
+        "opponent": "Punahele Soriano",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Niko Price",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Nikolay Veretennikov",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Ketlen Souza",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Bruna Brasil",
+        "result": "Win",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-08-02",
+        "opponent": "Piera Rodriguez",
+        "result": "Loss",
+        "method": "S-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Gianni Vazquez",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Javid Basharat",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Wang Cong",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Eduarda Moura",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Eduarda Moura",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Wang Cong",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Jakub Wiklacz",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Muin Gafurov",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Guillotine Choke"
+      },
+      {
+        "date": "2025-10-04",
+        "opponent": "Patchy Mix",
+        "result": "Win",
+        "method": "S-DEC"
+      }
+    ],
+    "win_methods": {
+      "submissions": 1,
+      "decisions": 1
+    },
+    "finish_rate": 50.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Muin Gafurov",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Jakub Wiklacz",
+        "result": "Loss",
+        "method": "SUB\n\n      \n\n        Guillotine Choke"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Klaudia Sygula",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-02-07",
+        "opponent": "Priscila Cachoeira",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Alexander Volkanovski",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Diego Lopes",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Diego Lopes",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Alexander Volkanovski",
+        "result": "Loss",
+        "method": "U-DEC"
+      },
+      {
+        "date": "2025-09-13",
+        "opponent": "Jean Silva",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Benoit Saint Denis",
+    "record_wins": 3,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Dan Hooker",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      },
+      {
+        "date": "2025-11-15",
+        "opponent": "Beneil Dariush",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punch"
+      },
+      {
+        "date": "2025-09-06",
+        "opponent": "Mauricio Ruffy",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 2,
+      "submissions": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Dan Hooker",
+    "record_wins": 0,
+    "record_losses": 2,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Benoit Saint Denis",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      },
+      {
+        "date": "2025-11-22",
+        "opponent": "Arman Tsarukyan",
+        "result": "Loss",
+        "method": "SUB\n\n      \n\n        Arm Triangle"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Mauricio Ruffy",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Rafael Fiziev",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      },
+      {
+        "date": "2025-09-06",
+        "opponent": "Benoit Saint Denis",
+        "result": "Loss",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Rafael Fiziev",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Mauricio Ruffy",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Tallison Teixeira",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Tai Tuivasa",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Tai Tuivasa",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Tallison Teixeira",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Quillan Salkilld",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Jamie Mullarkey",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Neck Crank"
+      },
+      {
+        "date": "2025-10-25",
+        "opponent": "Nasrat Haqparast",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Kick"
+      }
+    ],
+    "win_methods": {
+      "submissions": 1,
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Jamie Mullarkey",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Quillan Salkilld",
+        "result": "Loss",
+        "method": "SUB\n\n      \n\n        Neck Crank"
+      },
+      {
+        "date": "2025-09-27",
+        "opponent": "Rolando Bedoya",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Billy Elekana",
+    "record_wins": 3,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Junior Tafa",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      },
+      {
+        "date": "2025-11-01",
+        "opponent": "Kevin Christian",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      },
+      {
+        "date": "2025-07-26",
+        "opponent": "Ibo Aslan",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "submissions": 2,
+      "decisions": 1
+    },
+    "finish_rate": 66.7,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Junior Tafa",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Billy Elekana",
+        "result": "Loss",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Cam Rowston",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Cody Brundage",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      },
+      {
+        "date": "2025-09-27",
+        "opponent": "Andre Petroski",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 2
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Jacob Malkoun",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Torrez Finney",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Torrez Finney",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Jacob Malkoun",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Jonathan Micallef",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Oban Elliott",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {
+      "submissions": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Oban Elliott",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Jonathan Micallef",
+        "result": "Loss",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Kaan Ofli",
+    "record_wins": 2,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Yizha",
+        "result": "Win",
+        "method": "M-DEC"
+      },
+      {
+        "date": "2025-10-11",
+        "opponent": "Ricardo Ramos",
+        "result": "Win",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1,
+      "submissions": 1
+    },
+    "finish_rate": 50.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Yizha",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Kaan Ofli",
+        "result": "Loss",
+        "method": "M-DEC"
+      },
+      {
+        "date": "2025-08-23",
+        "opponent": "Westin Wilson",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Dom Mar Fan",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Sangwook Kim",
+        "result": "Win",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Sangwook Kim",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Dom Mar Fan",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Keiichiro Nakamura",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Sebastian Szalay",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Knee"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Sebastian Szalay",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Keiichiro Nakamura",
+        "result": "Loss",
+        "method": "KO/TKO\n\n      \n\n        Knee"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Lawrence Lui",
+    "record_wins": 1,
+    "record_losses": 0,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Sulangrangbo",
+        "result": "Win",
+        "method": "S-DEC"
+      }
+    ],
+    "win_methods": {
+      "decisions": 1
+    },
+    "finish_rate": 0.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  },
+  {
+    "name": "Sulangrangbo",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": null,
+    "sig_strike_acc": null,
+    "sapm": null,
+    "sig_strike_def": null,
+    "td_avg": null,
+    "td_acc": null,
+    "td_def": null,
+    "sub_avg": null,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Lawrence Lui",
+        "result": "Loss",
+        "method": "S-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30"
+  }
+]
