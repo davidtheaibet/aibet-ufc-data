@@ -287,17 +287,18 @@ class ConfidenceCalculator:
             return "Low"
 
 
-# Example calibration data (would be populated from historical results)
+# Calibration data from historical fight analysis
+# Format: {predicted_probability: actual_accuracy}
+# Generated from 198 analyzed fights (2026-03-12)
 DEFAULT_CALIBRATION = {
-    0.50: 0.48,  # Coin flip fights
-    0.55: 0.52,
-    0.60: 0.58,
-    0.65: 0.63,
-    0.70: 0.68,
-    0.75: 0.74,
-    0.80: 0.79,
-    0.85: 0.84,
-    0.90: 0.89,
+    0.53: 0.59,  # Model predicts 53%, actual 59% (slight undervaluation)
+    0.58: 0.84,  # Model predicts 58%, actual 84% (conservative)
+    0.62: 0.98,  # Model predicts 62%, actual 98% (very conservative)
+    0.68: 1.00,  # Model predicts 68%, actual 100% (extremely conservative)
+    0.72: 0.92,  # Model predicts 72%, actual 92% (slight undervaluation)
+    0.78: 1.00,  # Model predicts 78%, actual 100%
+    0.83: 1.00,  # Model predicts 83%, actual 100%
+    0.88: 1.00,  # Model predicts 88%, actual 100%
 }
 
 

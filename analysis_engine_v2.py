@@ -87,9 +87,27 @@ class UFCAnalysisEngineV2:
         
         # Initialize new components
         self.odds_manager = OddsManager()
+        
+        # Load calibration data from file if not provided
+        if calibration_data is None:
+            calibration_data = self._load_calibration_data(data_dir)
+        
         self.confidence_calculator = ConfidenceCalculator(calibration_data)
         
         self._load_data(data_dir)
+    
+    def _load_calibration_data(self, data_dir: Path) -> Dict:
+        """Load calibration data from JSON file"""
+        calibration_file = data_dir / 'calibration_data.json'
+        try:
+            with open(calibration_file) as f:
+                data = json.load(f)
+                # Convert string keys to floats (JSON keys are always strings)
+                calibration = data.get('calibration', {})
+                return {float(k): v for k, v in calibration.items()}
+        except FileNotFoundError:
+            # Return empty dict - will use defaults from ConfidenceCalculator
+            return {}
     
     def _load_data(self, data_dir: Path):
         """Load all JSON data files"""
