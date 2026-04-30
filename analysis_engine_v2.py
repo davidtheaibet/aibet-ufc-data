@@ -21,7 +21,12 @@ from odds_integration import (
     MarketOdds, OddsManager, calculate_edge, 
     get_edge_rating, format_odds_for_display
 )
-from confidence_calculator import ConfidenceCalculator, ConfidenceFactors
+from calibrated_confidence import (
+    calculate_prediction_metrics,
+    get_confidence_tier,
+    calculate_edge_score,
+    get_edge_tier as get_calibrated_edge_tier
+)
 
 
 @dataclass
