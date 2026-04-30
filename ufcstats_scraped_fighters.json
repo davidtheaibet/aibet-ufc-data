@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "total_attempted": 28,
+    "successful": 0,
+    "failed": 28,
+    "scraped_at": "2026-05-01T00:55:27.953284",
+    "source": "ufcstats.com"
+  },
+  "fighters": [],
+  "failed": [
+    "Ben Johnston",
+    "Brando Peri\u010di\u0107",
+    "Far\u00e8s Ziam",
+    "Jingnan Xiong",
+    "Joel \u00c1lvarez",
+    "Luis Dias De Assis",
+    "Mateusz R\u0119becki",
+    "Ollie Schmid",
+    "Thomas Gantt",
+    "Yi Sak Lee",
+    "Cameron Smotherman",
+    "Edgar Chairez",
+    "Iwo Baraniewski",
+    "Jacqueline Cavalcanti",
+    "Jakub Wiklacz",
+    "Jeisla Chaves",
+    "Junior Tafa",
+    "Kai Asakura",
+    "Kevin Christian",
+    "Louie Sutherland",
+    "Malcolm Wellmaker",
+    "Marwan Rahiki",
+    "Mauricio Ruffy",
+    "Ozzy Diaz",
+    "Ramon Taveras",
+    "Tai Tuivasa",
+    "Yuneisy Duben",
+    "Zhang Mingyang"
+  ]
+}

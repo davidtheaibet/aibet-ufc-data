@@ -1,0 +1,101 @@
+/Users/zacharyreid/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+======================================================================
+UFCSTATS.COM SCRAPER - PRIORITY FIGHTERS
+======================================================================
+Fighters to scrape: 28
+
+[1] Scraping: Ben Johnston
+  ✗ Not found: Ben Johnston
+[1] Scraping: Brando Peričić
+  ✗ Not found: Brando Peričić
+[1] Scraping: Farès Ziam
+  ✗ Not found: Farès Ziam
+[1] Scraping: Jingnan Xiong
+  ✗ Not found: Jingnan Xiong
+[1] Scraping: Joel Álvarez
+  ✗ Not found: Joel Álvarez
+[1] Scraping: Luis Dias De Assis
+  ✗ Not found: Luis Dias De Assis
+[1] Scraping: Mateusz Rębecki
+  ✗ Not found: Mateusz Rębecki
+[1] Scraping: Ollie Schmid
+  ✗ Not found: Ollie Schmid
+[1] Scraping: Thomas Gantt
+  ✗ Not found: Thomas Gantt
+[1] Scraping: Yi Sak Lee
+  ✗ Not found: Yi Sak Lee
+[1] Scraping: Cameron Smotherman
+  ✗ Not found: Cameron Smotherman
+[1] Scraping: Edgar Chairez
+  ✗ Not found: Edgar Chairez
+[1] Scraping: Iwo Baraniewski
+  ✗ Not found: Iwo Baraniewski
+[1] Scraping: Jacqueline Cavalcanti
+  ✗ Not found: Jacqueline Cavalcanti
+[1] Scraping: Jakub Wiklacz
+  ✗ Not found: Jakub Wiklacz
+[1] Scraping: Jeisla Chaves
+  ✗ Not found: Jeisla Chaves
+[1] Scraping: Junior Tafa
+  ✗ Not found: Junior Tafa
+[1] Scraping: Kai Asakura
+  ✗ Not found: Kai Asakura
+[1] Scraping: Kevin Christian
+  ✗ Not found: Kevin Christian
+[1] Scraping: Louie Sutherland
+  ✗ Not found: Louie Sutherland
+[1] Scraping: Malcolm Wellmaker
+  ✗ Not found: Malcolm Wellmaker
+[1] Scraping: Marwan Rahiki
+  ✗ Not found: Marwan Rahiki
+[1] Scraping: Mauricio Ruffy
+  ✗ Not found: Mauricio Ruffy
+[1] Scraping: Ozzy Diaz
+  ✗ Not found: Ozzy Diaz
+[1] Scraping: Ramon Taveras
+  ✗ Not found: Ramon Taveras
+[1] Scraping: Tai Tuivasa
+  ✗ Not found: Tai Tuivasa
+[1] Scraping: Yuneisy Duben
+  ✗ Not found: Yuneisy Duben
+[1] Scraping: Zhang Mingyang
+  ✗ Not found: Zhang Mingyang
+
+======================================================================
+SCRAPING COMPLETE
+======================================================================
+Successful: 0/28
+Failed: 28
+
+Saved to: ufcstats_scraped_fighters.json
+
+Failed fighters:
+  - Ben Johnston
+  - Brando Peričić
+  - Farès Ziam
+  - Jingnan Xiong
+  - Joel Álvarez
+  - Luis Dias De Assis
+  - Mateusz Rębecki
+  - Ollie Schmid
+  - Thomas Gantt
+  - Yi Sak Lee
+  - Cameron Smotherman
+  - Edgar Chairez
+  - Iwo Baraniewski
+  - Jacqueline Cavalcanti
+  - Jakub Wiklacz
+  - Jeisla Chaves
+  - Junior Tafa
+  - Kai Asakura
+  - Kevin Christian
+  - Louie Sutherland
+  - Malcolm Wellmaker
+  - Marwan Rahiki
+  - Mauricio Ruffy
+  - Ozzy Diaz
+  - Ramon Taveras
+  - Tai Tuivasa
+  - Yuneisy Duben
+  - Zhang Mingyang
