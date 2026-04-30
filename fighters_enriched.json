@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "count": 1,
+    "source": "ufcstats.com + apify_ufc_api",
+    "last_updated": "2026-04-30T23:44:34.220036",
+    "apify_fighters": 1
+  },
+  "fighters": [
+    {
+      "name": null,
+      "slpm": null,
+      "sig_strike_acc": null,
+      "sapm": null,
+      "sig_strike_def": null,
+      "td_avg": null,
+      "td_acc": null,
+      "td_def": null,
+      "sub_avg": null,
+      "record_wins": null,
+      "record_losses": null,
+      "record_draws": null,
+      "weight_class": null,
+      "ufc_id": null,
+      "apify_data": true,
+      "source": "apify_ufc_api",
+      "added_date": "2026-04-30T23:44:34.218658"
+    }
+  ]
+}
