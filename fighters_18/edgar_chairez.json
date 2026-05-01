@@ -1,0 +1,124 @@
+{
+  "profile": {
+    "id": 27,
+    "ufc_id": "5ef94841c4bc3f86",
+    "name": "Edgar Chairez",
+    "nickname": "Puro Chicali",
+    "record_wins": 13,
+    "record_losses": 6,
+    "record_draws": 0,
+    "record_no_contests": 0,
+    "height": "5' 7\"",
+    "reach": "71\"",
+    "stance": "Orthodox",
+    "date_of_birth": "1996-01-27",
+    "nationality": null,
+    "team": null,
+    "slpm": 3.65,
+    "sig_strike_acc": 0.45,
+    "sapm": 4.75,
+    "sig_strike_def": 0.46,
+    "td_avg": 0.0,
+    "td_acc": 0.0,
+    "td_def": null,
+    "sub_avg": 1.3,
+    "weight_lbs": 125,
+    "total_fights": 19,
+    "win_rate": 68.42,
+    "weight_class_analysis": {
+      "weight_cut_risk": "Low",
+      "weight_class_history": [
+        "Flyweight"
+      ],
+      "weight_class_history_lbs": [
+        125
+      ],
+      "natural_weight_class": "Flyweight",
+      "current_weight_class": "Flyweight",
+      "has_moved_weight": false,
+      "weight_trend": "Stable",
+      "is_at_natural_weight": true
+    },
+    "power_indicators": {
+      "ko_power_score": 0.0,
+      "ko_rate": 0.0,
+      "takedown_power_score": 0,
+      "physical_presence_score": 56,
+      "overall_power_rating": 16.8,
+      "finish_rate": 0.0
+    },
+    "win_methods": {
+      "ko_tko": 0,
+      "submissions": 0,
+      "decisions": 0
+    },
+    "recent_fights": [
+      {
+        "id": 4,
+        "ufc_id": "7df505d8260ba680",
+        "method": "S-DEC",
+        "method_details": null,
+        "end_round": 3,
+        "end_time": "5:00",
+        "weight_class": null,
+        "is_title_fight": 0,
+        "is_main_event": 0,
+        "fighter_a_id": 27,
+        "fighter_b_id": 28,
+        "winner_id": 27,
+        "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+        "event_date": "2026-02-28",
+        "opponent_name": "Felipe Bunes",
+        "sig_strikes_landed": 0,
+        "sig_strikes_attempted": 0,
+        "takedowns_landed": 0,
+        "takedowns_attempted": 0,
+        "knockdowns_scored": 0,
+        "submissions_attempted": 0,
+        "result": "Win"
+      }
+    ],
+    "finish_rate": 0.0,
+    "external_id": 27
+  },
+  "fights": [
+    {
+      "id": 4,
+      "ufc_id": "7df505d8260ba680",
+      "event_id": 1,
+      "fighter_a_id": 27,
+      "fighter_b_id": 28,
+      "winner_id": 27,
+      "method": "S-DEC",
+      "method_details": null,
+      "end_round": 3,
+      "end_time": "5:00",
+      "weight_class": null,
+      "is_title_fight": 0,
+      "is_main_event": 0,
+      "card_position": 5,
+      "fighter_a_name": "Edgar Chairez",
+      "fighter_b_name": "Felipe Bunes",
+      "fighter_a_weight": 125,
+      "fighter_b_weight": 125,
+      "winner_name": "Edgar Chairez",
+      "event_name": "UFC Fight Night: Moreno vs. Kavanagh",
+      "event_date": "2026-02-28",
+      "weight_class_context": {
+        "fighter_a_weight_class": "Flyweight",
+        "fighter_b_weight_class": "Flyweight",
+        "was_weight_class_change": false
+      },
+      "result": "Win"
+    }
+  ],
+  "fight_count": 1,
+  "stats": {
+    "record": "13-6-0",
+    "slpm": 3.65,
+    "sig_strike_acc": 0.45,
+    "td_avg": 0.0,
+    "sub_avg": 1.3,
+    "weight_class": "Flyweight"
+  }
+}

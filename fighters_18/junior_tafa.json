@@ -1,0 +1,73 @@
+{
+  "profile": {
+    "name": "Junior Tafa",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": 3.41,
+    "sig_strike_acc": 0.51,
+    "sapm": 2.55,
+    "sig_strike_def": 0.51,
+    "td_avg": 0.0,
+    "td_acc": 0.0,
+    "td_def": null,
+    "sub_avg": 0.0,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Billy Elekana",
+        "result": "Loss",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30",
+    "weight_lbs": 205,
+    "ufc_id": "c15fa95b9a12fde4",
+    "has_detailed_stats": true
+  },
+  "fights": [
+    {
+      "id": 46,
+      "ufc_id": "d94f1b32a81e3fa1",
+      "event_id": 4,
+      "fighter_a_id": 111,
+      "fighter_b_id": 112,
+      "winner_id": 111,
+      "method": "SUB\n\n      \n\n        Rear Naked Choke",
+      "method_details": null,
+      "end_round": 2,
+      "end_time": "3:18",
+      "weight_class": null,
+      "is_title_fight": 0,
+      "is_main_event": 0,
+      "card_position": 7,
+      "fighter_a_name": "Billy Elekana",
+      "fighter_b_name": "Junior Tafa",
+      "fighter_a_weight": 205,
+      "fighter_b_weight": 205,
+      "winner_name": "Billy Elekana",
+      "event_name": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_date": "2026-01-31",
+      "weight_class_context": {
+        "fighter_a_weight_class": "Light Heavyweight",
+        "fighter_b_weight_class": "Light Heavyweight",
+        "was_weight_class_change": false
+      },
+      "result": "Win"
+    }
+  ],
+  "fight_count": 1,
+  "stats": {
+    "record": "0-1-0",
+    "slpm": 3.41,
+    "sig_strike_acc": 0.51,
+    "td_avg": 0.0,
+    "sub_avg": 0.0,
+    "weight_class": null
+  }
+}

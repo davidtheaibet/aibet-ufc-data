@@ -1,0 +1,124 @@
+{
+  "profile": {
+    "id": 361,
+    "ufc_id": "1c23ec2f1b71be40",
+    "name": "Iwo Baraniewski",
+    "nickname": "Rudy",
+    "record_wins": 7,
+    "record_losses": 0,
+    "record_draws": 0,
+    "record_no_contests": 0,
+    "height": "6' 0\"",
+    "reach": "73\"",
+    "stance": "Orthodox",
+    "date_of_birth": "1998-11-20",
+    "nationality": null,
+    "team": null,
+    "slpm": 14.31,
+    "sig_strike_acc": 0.68,
+    "sapm": 17.61,
+    "sig_strike_def": 0.42,
+    "td_avg": 0.0,
+    "td_acc": 0.0,
+    "td_def": null,
+    "sub_avg": 0.0,
+    "weight_lbs": 205,
+    "total_fights": 7,
+    "win_rate": 100.0,
+    "weight_class_analysis": {
+      "weight_cut_risk": "Low",
+      "weight_class_history": [
+        "Light Heavyweight"
+      ],
+      "weight_class_history_lbs": [
+        205
+      ],
+      "natural_weight_class": "Light Heavyweight",
+      "current_weight_class": "Light Heavyweight",
+      "has_moved_weight": false,
+      "weight_trend": "Stable",
+      "is_at_natural_weight": true
+    },
+    "power_indicators": {
+      "ko_power_score": 11.4,
+      "ko_rate": 14.3,
+      "takedown_power_score": 0,
+      "physical_presence_score": 44,
+      "overall_power_rating": 17.8,
+      "finish_rate": 14.29
+    },
+    "win_methods": {
+      "ko_tko": 1,
+      "submissions": 0,
+      "decisions": 0
+    },
+    "recent_fights": [
+      {
+        "id": 88,
+        "ufc_id": "ea660db65bfa998f",
+        "method": "KO/TKO\n\n      \n\n        Punches",
+        "method_details": null,
+        "end_round": 1,
+        "end_time": "1:29",
+        "weight_class": null,
+        "is_title_fight": 0,
+        "is_main_event": 0,
+        "fighter_a_id": 361,
+        "fighter_b_id": 308,
+        "winner_id": 361,
+        "event_name": "UFC 323: Dvalishvili vs. Yan 2",
+        "event_date": "2025-12-06",
+        "opponent_name": "Ibo Aslan",
+        "sig_strikes_landed": 0,
+        "sig_strikes_attempted": 0,
+        "takedowns_landed": 0,
+        "takedowns_attempted": 0,
+        "knockdowns_scored": 0,
+        "submissions_attempted": 0,
+        "result": "Win"
+      }
+    ],
+    "finish_rate": 14.29,
+    "external_id": 361
+  },
+  "fights": [
+    {
+      "id": 88,
+      "ufc_id": "ea660db65bfa998f",
+      "event_id": 7,
+      "fighter_a_id": 361,
+      "fighter_b_id": 308,
+      "winner_id": 361,
+      "method": "KO/TKO\n\n      \n\n        Punches",
+      "method_details": null,
+      "end_round": 1,
+      "end_time": "1:29",
+      "weight_class": null,
+      "is_title_fight": 0,
+      "is_main_event": 0,
+      "card_position": 13,
+      "fighter_a_name": "Iwo Baraniewski",
+      "fighter_b_name": "Ibo Aslan",
+      "fighter_a_weight": 205,
+      "fighter_b_weight": 205,
+      "winner_name": "Iwo Baraniewski",
+      "event_name": "UFC 323: Dvalishvili vs. Yan 2",
+      "event_date": "2025-12-06",
+      "weight_class_context": {
+        "fighter_a_weight_class": "Light Heavyweight",
+        "fighter_b_weight_class": "Light Heavyweight",
+        "was_weight_class_change": false
+      },
+      "result": "Win"
+    }
+  ],
+  "fight_count": 1,
+  "stats": {
+    "record": "7-0-0",
+    "slpm": 14.31,
+    "sig_strike_acc": 0.68,
+    "td_avg": 0.0,
+    "sub_avg": 0.0,
+    "weight_class": "Light Heavyweight"
+  }
+}

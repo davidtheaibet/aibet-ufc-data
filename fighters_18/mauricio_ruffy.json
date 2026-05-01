@@ -1,0 +1,110 @@
+{
+  "profile": {
+    "name": "Mauricio Ruffy",
+    "record_wins": 1,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": 4.19,
+    "sig_strike_acc": 0.58,
+    "sapm": 4.09,
+    "sig_strike_def": 0.58,
+    "td_avg": 0.0,
+    "td_acc": 0.0,
+    "td_def": null,
+    "sub_avg": 0.0,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Rafael Fiziev",
+        "result": "Win",
+        "method": "KO/TKO\n\n      \n\n        Punches"
+      },
+      {
+        "date": "2025-09-06",
+        "opponent": "Benoit Saint Denis",
+        "result": "Loss",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke"
+      }
+    ],
+    "win_methods": {
+      "ko_tko": 1
+    },
+    "finish_rate": 100.0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30",
+    "weight_lbs": 155,
+    "ufc_id": "9c393e836a852f30",
+    "has_detailed_stats": true
+  },
+  "fights": [
+    {
+      "id": 43,
+      "ufc_id": "57d7a683b85bb87b",
+      "event_id": 4,
+      "fighter_a_id": 105,
+      "fighter_b_id": 106,
+      "winner_id": 105,
+      "method": "KO/TKO\n\n      \n\n        Punches",
+      "method_details": null,
+      "end_round": 2,
+      "end_time": "4:30",
+      "weight_class": null,
+      "is_title_fight": 0,
+      "is_main_event": 0,
+      "card_position": 4,
+      "fighter_a_name": "Mauricio Ruffy",
+      "fighter_b_name": "Rafael Fiziev",
+      "fighter_a_weight": 155,
+      "fighter_b_weight": 155,
+      "winner_name": "Mauricio Ruffy",
+      "event_name": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_date": "2026-01-31",
+      "weight_class_context": {
+        "fighter_a_weight_class": "Lightweight",
+        "fighter_b_weight_class": "Lightweight",
+        "was_weight_class_change": false
+      },
+      "result": "Win"
+    },
+    {
+      "id": 223,
+      "ufc_id": "d14fea43712707f0",
+      "event_id": 18,
+      "fighter_a_id": 103,
+      "fighter_b_id": 105,
+      "winner_id": 103,
+      "method": "SUB\n\n      \n\n        Rear Naked Choke",
+      "method_details": null,
+      "end_round": 2,
+      "end_time": "2:56",
+      "weight_class": null,
+      "is_title_fight": 0,
+      "is_main_event": 0,
+      "card_position": 3,
+      "fighter_a_name": "Benoit Saint Denis",
+      "fighter_b_name": "Mauricio Ruffy",
+      "fighter_a_weight": 155,
+      "fighter_b_weight": 155,
+      "winner_name": "Benoit Saint Denis",
+      "event_name": "UFC Fight Night: Imavov vs. Borralho",
+      "event_date": "2025-09-06",
+      "weight_class_context": {
+        "fighter_a_weight_class": "Lightweight",
+        "fighter_b_weight_class": "Lightweight",
+        "was_weight_class_change": false
+      },
+      "result": "Win"
+    }
+  ],
+  "fight_count": 2,
+  "stats": {
+    "record": "1-1-0",
+    "slpm": 4.19,
+    "sig_strike_acc": 0.58,
+    "td_avg": 0.0,
+    "sub_avg": 0.0,
+    "weight_class": null
+  }
+}

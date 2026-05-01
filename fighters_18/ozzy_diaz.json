@@ -1,0 +1,62 @@
+{
+  "profile": {
+    "id": 1046,
+    "ufc_id": "6967153c7edb4d87",
+    "name": "Ozzy Diaz",
+    "nickname": "",
+    "record_wins": 10,
+    "record_losses": 3,
+    "record_draws": 0,
+    "record_no_contests": 0,
+    "height": "6' 4\"",
+    "reach": "79\"",
+    "stance": "Orthodox",
+    "date_of_birth": "1990-11-22",
+    "nationality": null,
+    "team": null,
+    "slpm": 6.44,
+    "sig_strike_acc": 0.5,
+    "sapm": 7.23,
+    "sig_strike_def": 0.59,
+    "td_avg": 0.0,
+    "td_acc": 0.0,
+    "td_def": null,
+    "sub_avg": 0.0,
+    "weight_lbs": 185,
+    "total_fights": 13,
+    "win_rate": 76.92,
+    "weight_class_analysis": {
+      "weight_cut_risk": "Unknown",
+      "weight_class_history": [],
+      "natural_weight_class": "Middleweight",
+      "has_moved_weight": false,
+      "weight_trend": "Unknown"
+    },
+    "power_indicators": {
+      "ko_power_score": 0.0,
+      "ko_rate": 0.0,
+      "takedown_power_score": 0,
+      "physical_presence_score": 65,
+      "overall_power_rating": 19.5,
+      "finish_rate": 0.0
+    },
+    "win_methods": {
+      "ko_tko": 0,
+      "submissions": 0,
+      "decisions": 0
+    },
+    "recent_fights": [],
+    "finish_rate": 0.0,
+    "external_id": 1046
+  },
+  "fights": [],
+  "fight_count": 0,
+  "stats": {
+    "record": "10-3-0",
+    "slpm": 6.44,
+    "sig_strike_acc": 0.5,
+    "td_avg": 0.0,
+    "sub_avg": 0.0,
+    "weight_class": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "profile": {
+    "id": 784,
+    "ufc_id": "7e9b36a9847db116",
+    "name": "Kevin Christian",
+    "nickname": "",
+    "record_wins": 9,
+    "record_losses": 3,
+    "record_draws": 0,
+    "record_no_contests": 0,
+    "height": "6' 7\"",
+    "reach": "80\"",
+    "stance": "Orthodox",
+    "date_of_birth": "1995-01-21",
+    "nationality": null,
+    "team": null,
+    "slpm": 1.64,
+    "sig_strike_acc": 0.56,
+    "sapm": 2.65,
+    "sig_strike_def": 0.44,
+    "td_avg": 0.0,
+    "td_acc": 0.0,
+    "td_def": null,
+    "sub_avg": 2.3,
+    "weight_lbs": 205,
+    "total_fights": 12,
+    "win_rate": 75.0,
+    "weight_class_analysis": {
+      "weight_cut_risk": "Low",
+      "weight_class_history": [
+        "Light Heavyweight"
+      ],
+      "weight_class_history_lbs": [
+        205
+      ],
+      "natural_weight_class": "Light Heavyweight",
+      "current_weight_class": "Light Heavyweight",
+      "has_moved_weight": false,
+      "weight_trend": "Stable",
+      "is_at_natural_weight": true
+    },
+    "power_indicators": {
+      "ko_power_score": 0.0,
+      "ko_rate": 0.0,
+      "takedown_power_score": 0,
+      "physical_presence_score": 65,
+      "overall_power_rating": 19.5,
+      "finish_rate": 0.0
+    },
+    "win_methods": {
+      "ko_tko": 0,
+      "submissions": 0,
+      "decisions": 0
+    },
+    "recent_fights": [
+      {
+        "id": 137,
+        "ufc_id": "f063bcccbbb9edc5",
+        "method": "SUB\n\n      \n\n        Rear Naked Choke",
+        "method_details": null,
+        "end_round": 1,
+        "end_time": "3:33",
+        "weight_class": null,
+        "is_title_fight": 0,
+        "is_main_event": 0,
+        "fighter_a_id": 111,
+        "fighter_b_id": 784,
+        "winner_id": 111,
+        "event_name": "UFC Fight Night: Garcia vs. Onama",
+        "event_date": "2025-11-01",
+        "opponent_name": "Billy Elekana",
+        "sig_strikes_landed": 0,
+        "sig_strikes_attempted": 0,
+        "takedowns_landed": 0,
+        "takedowns_attempted": 0,
+        "knockdowns_scored": 0,
+        "submissions_attempted": 0,
+        "result": "Loss"
+      }
+    ],
+    "finish_rate": 0.0,
+    "external_id": 784
+  },
+  "fights": [
+    {
+      "id": 137,
+      "ufc_id": "f063bcccbbb9edc5",
+      "event_id": 11,
+      "fighter_a_id": 111,
+      "fighter_b_id": 784,
+      "winner_id": 111,
+      "method": "SUB\n\n      \n\n        Rear Naked Choke",
+      "method_details": null,
+      "end_round": 1,
+      "end_time": "3:33",
+      "weight_class": null,
+      "is_title_fight": 0,
+      "is_main_event": 0,
+      "card_position": 8,
+      "fighter_a_name": "Billy Elekana",
+      "fighter_b_name": "Kevin Christian",
+      "fighter_a_weight": 205,
+      "fighter_b_weight": 205,
+      "winner_name": "Billy Elekana",
+      "event_name": "UFC Fight Night: Garcia vs. Onama",
+      "event_date": "2025-11-01",
+      "weight_class_context": {
+        "fighter_a_weight_class": "Light Heavyweight",
+        "fighter_b_weight_class": "Light Heavyweight",
+        "was_weight_class_change": false
+      },
+      "result": "Win"
+    }
+  ],
+  "fight_count": 1,
+  "stats": {
+    "record": "9-3-0",
+    "slpm": 1.64,
+    "sig_strike_acc": 0.56,
+    "td_avg": 0.0,
+    "sub_avg": 2.3,
+    "weight_class": "Light Heavyweight"
+  }
+}

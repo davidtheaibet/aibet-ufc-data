@@ -1,0 +1,124 @@
+{
+  "profile": {
+    "id": 3924,
+    "ufc_id": "cdb7b38b1b357f26",
+    "name": "Louie Sutherland",
+    "nickname": "Vanilla Gorilla",
+    "record_wins": 10,
+    "record_losses": 4,
+    "record_draws": 0,
+    "record_no_contests": 0,
+    "height": "6' 3\"",
+    "reach": "76\"",
+    "stance": "Orthodox",
+    "date_of_birth": "1994-02-08",
+    "nationality": null,
+    "team": null,
+    "slpm": 2.14,
+    "sig_strike_acc": 0.6,
+    "sapm": 3.57,
+    "sig_strike_def": 0.0,
+    "td_avg": 0.0,
+    "td_acc": 0.0,
+    "td_def": null,
+    "sub_avg": 0.0,
+    "weight_lbs": 264,
+    "total_fights": 14,
+    "win_rate": 71.43,
+    "weight_class_analysis": {
+      "weight_cut_risk": "Low",
+      "weight_class_history": [
+        "Heavyweight"
+      ],
+      "weight_class_history_lbs": [
+        244
+      ],
+      "natural_weight_class": "Heavyweight",
+      "current_weight_class": "Heavyweight",
+      "has_moved_weight": false,
+      "weight_trend": "Stable",
+      "is_at_natural_weight": true
+    },
+    "power_indicators": {
+      "ko_power_score": 0.0,
+      "ko_rate": 0.0,
+      "takedown_power_score": 0,
+      "physical_presence_score": 53,
+      "overall_power_rating": 15.9,
+      "finish_rate": 0.0
+    },
+    "win_methods": {
+      "ko_tko": 0,
+      "submissions": 0,
+      "decisions": 0
+    },
+    "recent_fights": [
+      {
+        "id": 152,
+        "ufc_id": "f2c2a49fed32bd75",
+        "method": "SUB\n\n      \n\n        Heel Hook",
+        "method_details": null,
+        "end_round": 1,
+        "end_time": "1:24",
+        "weight_class": null,
+        "is_title_fight": 0,
+        "is_main_event": 0,
+        "fighter_a_id": 4228,
+        "fighter_b_id": 3924,
+        "winner_id": 4228,
+        "event_name": "UFC 321: Aspinall vs. Gane",
+        "event_date": "2025-10-25",
+        "opponent_name": "Valter Walker",
+        "sig_strikes_landed": 0,
+        "sig_strikes_attempted": 0,
+        "takedowns_landed": 0,
+        "takedowns_attempted": 0,
+        "knockdowns_scored": 0,
+        "submissions_attempted": 0,
+        "result": "Loss"
+      }
+    ],
+    "finish_rate": 0.0,
+    "external_id": 3924
+  },
+  "fights": [
+    {
+      "id": 152,
+      "ufc_id": "f2c2a49fed32bd75",
+      "event_id": 12,
+      "fighter_a_id": 4228,
+      "fighter_b_id": 3924,
+      "winner_id": 4228,
+      "method": "SUB\n\n      \n\n        Heel Hook",
+      "method_details": null,
+      "end_round": 1,
+      "end_time": "1:24",
+      "weight_class": null,
+      "is_title_fight": 0,
+      "is_main_event": 0,
+      "card_position": 10,
+      "fighter_a_name": "Valter Walker",
+      "fighter_b_name": "Louie Sutherland",
+      "fighter_a_weight": 244,
+      "fighter_b_weight": 264,
+      "winner_name": "Valter Walker",
+      "event_name": "UFC 321: Aspinall vs. Gane",
+      "event_date": "2025-10-25",
+      "weight_class_context": {
+        "fighter_a_weight_class": "Heavyweight",
+        "fighter_b_weight_class": "Heavyweight",
+        "was_weight_class_change": true
+      },
+      "result": "Win"
+    }
+  ],
+  "fight_count": 1,
+  "stats": {
+    "record": "10-4-0",
+    "slpm": 2.14,
+    "sig_strike_acc": 0.6,
+    "td_avg": 0.0,
+    "sub_avg": 0.0,
+    "weight_class": "Heavyweight"
+  }
+}

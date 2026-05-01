@@ -1,0 +1,73 @@
+{
+  "profile": {
+    "name": "Tai Tuivasa",
+    "record_wins": 0,
+    "record_losses": 1,
+    "record_draws": 0,
+    "weight_class": "Unknown",
+    "slpm": 3.66,
+    "sig_strike_acc": 0.48,
+    "sapm": 4.97,
+    "sig_strike_def": 0.43,
+    "td_avg": 0.0,
+    "td_acc": 0.0,
+    "td_def": null,
+    "sub_avg": 0.0,
+    "recent_fights": [
+      {
+        "date": "2026-01-31",
+        "opponent": "Tallison Teixeira",
+        "result": "Loss",
+        "method": "U-DEC"
+      }
+    ],
+    "win_methods": {},
+    "finish_rate": 0,
+    "source": "fight_history_derived",
+    "data_quality": "medium",
+    "added_date": "2026-04-30",
+    "weight_lbs": 264,
+    "ufc_id": "c62fbc117d57b943",
+    "has_detailed_stats": true
+  },
+  "fights": [
+    {
+      "id": 44,
+      "ufc_id": "67765535bd0b6bdf",
+      "event_id": 4,
+      "fighter_a_id": 107,
+      "fighter_b_id": 108,
+      "winner_id": 107,
+      "method": "U-DEC",
+      "method_details": null,
+      "end_round": 3,
+      "end_time": "5:00",
+      "weight_class": null,
+      "is_title_fight": 0,
+      "is_main_event": 0,
+      "card_position": 5,
+      "fighter_a_name": "Tallison Teixeira",
+      "fighter_b_name": "Tai Tuivasa",
+      "fighter_a_weight": 258,
+      "fighter_b_weight": 264,
+      "winner_name": "Tallison Teixeira",
+      "event_name": "UFC 325: Volkanovski vs. Lopes 2",
+      "event_date": "2026-01-31",
+      "weight_class_context": {
+        "fighter_a_weight_class": "Heavyweight",
+        "fighter_b_weight_class": "Heavyweight",
+        "was_weight_class_change": true
+      },
+      "result": "Win"
+    }
+  ],
+  "fight_count": 1,
+  "stats": {
+    "record": "0-1-0",
+    "slpm": 3.66,
+    "sig_strike_acc": 0.48,
+    "td_avg": 0.0,
+    "sub_avg": 0.0,
+    "weight_class": null
+  }
+}

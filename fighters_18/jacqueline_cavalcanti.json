@@ -1,0 +1,124 @@
+{
+  "profile": {
+    "id": 738,
+    "ufc_id": "e3964ece586e0635",
+    "name": "Jacqueline Cavalcanti",
+    "nickname": "",
+    "record_wins": 10,
+    "record_losses": 1,
+    "record_draws": 0,
+    "record_no_contests": 0,
+    "height": "5' 8\"",
+    "reach": "70\"",
+    "stance": "Orthodox",
+    "date_of_birth": "1997-08-29",
+    "nationality": null,
+    "team": null,
+    "slpm": 5.65,
+    "sig_strike_acc": 0.46,
+    "sapm": 3.17,
+    "sig_strike_def": 0.68,
+    "td_avg": 0.0,
+    "td_acc": 0.0,
+    "td_def": null,
+    "sub_avg": 0.0,
+    "weight_lbs": 135,
+    "total_fights": 11,
+    "win_rate": 90.91,
+    "weight_class_analysis": {
+      "weight_cut_risk": "Low",
+      "weight_class_history": [
+        "Bantamweight"
+      ],
+      "weight_class_history_lbs": [
+        135
+      ],
+      "natural_weight_class": "Bantamweight",
+      "current_weight_class": "Bantamweight",
+      "has_moved_weight": false,
+      "weight_trend": "Stable",
+      "is_at_natural_weight": true
+    },
+    "power_indicators": {
+      "ko_power_score": 0.0,
+      "ko_rate": 0.0,
+      "takedown_power_score": 0,
+      "physical_presence_score": 59,
+      "overall_power_rating": 17.7,
+      "finish_rate": 0.0
+    },
+    "win_methods": {
+      "ko_tko": 0,
+      "submissions": 0,
+      "decisions": 0
+    },
+    "recent_fights": [
+      {
+        "id": 126,
+        "ufc_id": "80eae31bc0a94a65",
+        "method": "U-DEC",
+        "method_details": null,
+        "end_round": 3,
+        "end_time": "5:00",
+        "weight_class": null,
+        "is_title_fight": 0,
+        "is_main_event": 0,
+        "fighter_a_id": 738,
+        "fighter_b_id": 607,
+        "winner_id": 738,
+        "event_name": "UFC Fight Night: Bonfim vs. Brown",
+        "event_date": "2025-11-08",
+        "opponent_name": "Mayra Bueno Silva",
+        "sig_strikes_landed": 0,
+        "sig_strikes_attempted": 0,
+        "takedowns_landed": 0,
+        "takedowns_attempted": 0,
+        "knockdowns_scored": 0,
+        "submissions_attempted": 0,
+        "result": "Win"
+      }
+    ],
+    "finish_rate": 0.0,
+    "external_id": 738
+  },
+  "fights": [
+    {
+      "id": 126,
+      "ufc_id": "80eae31bc0a94a65",
+      "event_id": 10,
+      "fighter_a_id": 738,
+      "fighter_b_id": 607,
+      "winner_id": 738,
+      "method": "U-DEC",
+      "method_details": null,
+      "end_round": 3,
+      "end_time": "5:00",
+      "weight_class": null,
+      "is_title_fight": 0,
+      "is_main_event": 0,
+      "card_position": 9,
+      "fighter_a_name": "Jacqueline Cavalcanti",
+      "fighter_b_name": "Mayra Bueno Silva",
+      "fighter_a_weight": 135,
+      "fighter_b_weight": 135,
+      "winner_name": "Jacqueline Cavalcanti",
+      "event_name": "UFC Fight Night: Bonfim vs. Brown",
+      "event_date": "2025-11-08",
+      "weight_class_context": {
+        "fighter_a_weight_class": "Bantamweight",
+        "fighter_b_weight_class": "Bantamweight",
+        "was_weight_class_change": false
+      },
+      "result": "Win"
+    }
+  ],
+  "fight_count": 1,
+  "stats": {
+    "record": "10-1-0",
+    "slpm": 5.65,
+    "sig_strike_acc": 0.46,
+    "td_avg": 0.0,
+    "sub_avg": 0.0,
+    "weight_class": "Bantamweight"
+  }
+}

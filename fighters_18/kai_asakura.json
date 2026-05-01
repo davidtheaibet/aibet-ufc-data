@@ -1,0 +1,124 @@
+{
+  "profile": {
+    "id": 297,
+    "ufc_id": "d33da8a3d82bdb62",
+    "name": "Kai Asakura",
+    "nickname": "",
+    "record_wins": 21,
+    "record_losses": 6,
+    "record_draws": 0,
+    "record_no_contests": 0,
+    "height": "5' 8\"",
+    "reach": "69\"",
+    "stance": "Orthodox",
+    "date_of_birth": "1993-10-31",
+    "nationality": null,
+    "team": null,
+    "slpm": 2.27,
+    "sig_strike_acc": 0.32,
+    "sapm": 3.53,
+    "sig_strike_def": 0.52,
+    "td_avg": 0.0,
+    "td_acc": 0.0,
+    "td_def": null,
+    "sub_avg": 0.0,
+    "weight_lbs": 125,
+    "total_fights": 27,
+    "win_rate": 77.78,
+    "weight_class_analysis": {
+      "weight_cut_risk": "Low",
+      "weight_class_history": [
+        "Flyweight"
+      ],
+      "weight_class_history_lbs": [
+        125
+      ],
+      "natural_weight_class": "Flyweight",
+      "current_weight_class": "Flyweight",
+      "has_moved_weight": false,
+      "weight_trend": "Stable",
+      "is_at_natural_weight": true
+    },
+    "power_indicators": {
+      "ko_power_score": 0.0,
+      "ko_rate": 0.0,
+      "takedown_power_score": 0,
+      "physical_presence_score": 59,
+      "overall_power_rating": 17.7,
+      "finish_rate": 0.0
+    },
+    "win_methods": {
+      "ko_tko": 0,
+      "submissions": 0,
+      "decisions": 0
+    },
+    "recent_fights": [
+      {
+        "id": 253,
+        "ufc_id": "82338ba457fbe87f",
+        "method": "SUB\n\n      \n\n        Guillotine Choke",
+        "method_details": null,
+        "end_round": 2,
+        "end_time": "4:39",
+        "weight_class": null,
+        "is_title_fight": 0,
+        "is_main_event": 0,
+        "fighter_a_id": 1173,
+        "fighter_b_id": 297,
+        "winner_id": 1173,
+        "event_name": "UFC 319: Du Plessis vs. Chimaev",
+        "event_date": "2025-08-16",
+        "opponent_name": "Tim Elliott",
+        "sig_strikes_landed": 0,
+        "sig_strikes_attempted": 0,
+        "takedowns_landed": 0,
+        "takedowns_attempted": 0,
+        "knockdowns_scored": 0,
+        "submissions_attempted": 0,
+        "result": "Loss"
+      }
+    ],
+    "finish_rate": 0.0,
+    "external_id": 297
+  },
+  "fights": [
+    {
+      "id": 253,
+      "ufc_id": "82338ba457fbe87f",
+      "event_id": 21,
+      "fighter_a_id": 1173,
+      "fighter_b_id": 297,
+      "winner_id": 1173,
+      "method": "SUB\n\n      \n\n        Guillotine Choke",
+      "method_details": null,
+      "end_round": 2,
+      "end_time": "4:39",
+      "weight_class": null,
+      "is_title_fight": 0,
+      "is_main_event": 0,
+      "card_position": 6,
+      "fighter_a_name": "Tim Elliott",
+      "fighter_b_name": "Kai Asakura",
+      "fighter_a_weight": 125,
+      "fighter_b_weight": 125,
+      "winner_name": "Tim Elliott",
+      "event_name": "UFC 319: Du Plessis vs. Chimaev",
+      "event_date": "2025-08-16",
+      "weight_class_context": {
+        "fighter_a_weight_class": "Flyweight",
+        "fighter_b_weight_class": "Flyweight",
+        "was_weight_class_change": false
+      },
+      "result": "Win"
+    }
+  ],
+  "fight_count": 1,
+  "stats": {
+    "record": "21-6-0",
+    "slpm": 2.27,
+    "sig_strike_acc": 0.32,
+    "td_avg": 0.0,
+    "sub_avg": 0.0,
+    "weight_class": "Flyweight"
+  }
+}
