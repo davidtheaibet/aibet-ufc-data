@@ -1,0 +1,41 @@
+{
+  "audit_date": "2026-05-02T01:00:14.003685",
+  "summary": {
+    "total_fighters": 4436,
+    "complete_fighters": 3557,
+    "partial_fighters": 101,
+    "minimal_fighters": 778,
+    "target_120_ready": true,
+    "events_ready": false,
+    "fighters_18_found": 18
+  },
+  "files": {
+    "fighters.json": {
+      "size": 6150709,
+      "count": "N/A"
+    },
+    "fight-history.json": {
+      "size": 258255,
+      "count": "N/A"
+    },
+    "events.json": {
+      "size": 8753,
+      "count": "N/A"
+    },
+    "upcoming-events.json": {
+      "size": 12425,
+      "count": "N/A"
+    },
+    "fight-stats-detailed.json": {
+      "size": 515669,
+      "count": "N/A"
+    },
+    "fighter-histories.json": {
+      "size": 519271,
+      "count": "N/A"
+    }
+  },
+  "recommendations": [
+    "Scrape upcoming UFC events for next 3 months"
+  ]
+}
